@@ -6,7 +6,7 @@
 #' @export
 #'
 #' @examples
-#' plot_mut_dist(read_cbioportal("~/mutation_table_TP53.csv"))
+#' 
 
 plot_mut_dist <- function(gene_df) {
   gene_mut_p <- ggplot2::ggplot(gene_df, ggplot2::aes(n_pos, forcats::fct_rev(forcats::fct_infreq(cancer_study))))  +

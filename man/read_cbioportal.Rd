@@ -18,6 +18,6 @@ of interest and inputting one gene name. The download button for the required cs
 the Mutations tab on the bottom left of the resulting table.
 }
 \examples{
-read_cbioportal("~/mutation_table_TP53.csv")
+
 }
 

@@ -2,9 +2,7 @@
 title: "tcgaR"
 author: "Stephen Lee"
 date: "`r Sys.Date()`"
-output: rmarkdown::html_vignette:
-    toc: true
-    keep_md: true
+output: rmarkdown::html_vignette
 vignette: >
   %\VignetteIndexEntry{tcgaR}
   %\VignetteEngine{knitr::rmarkdown}

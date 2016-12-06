@@ -1,0 +1,628 @@
+Sample ID	Cancer Study	AA change	Annotation	Type	Copy #	COSMIC	MS	VS	Mutation Assessor	Center	Chr	Start Pos	End Pos	Ref	Var	Allele Freq (T)	Allele Freq (N)	Var Ref	Var Alt	Norm Ref	Norm Alt	BAM	#Mut in Sample
+TCGA-DB-5278-01	Glioma (TCGA)	R1515H		Missense	ShallowDel	9	S	U	Low	Broad	chr19	42799060	42799060	NA	NA	NA	NA	46	NA	NA	NA	IGV	7
+TCGA-HT-7877-01	Glioma (TCGA)	R201W		Missense	ShallowDel	7	S	U	Medium	hgsc.bcm.edu;broad.mit.edu;ucsc.edu	chr19	42791715	42791715	NA	NA	0.17	NA	86	18	NA	NA	IGV	9
+TCGA-TQ-A7RU-01	LGG-GBM (TCGA 2016)	R201W		Missense	ShallowDel	7	U	U	Medium	ucsc.edu/broad.mit.edu	chr19	42791715	42791715	C	T	0.13	NA	56	8	92	0	IGV	24
+TCGA-S9-A7J2-01	LGG-GBM (TCGA 2016)	R201W		Missense	ShallowDel	7	U	U	Medium	mdanderson.org/ucsc.edu/broad.mit.edu	chr19	42791715	42791715	C	T	0.87	NA	5	33	74	0	IGV	7
+TCGA-S9-A6U2-01	LGG-GBM (TCGA 2016)	R201W		Missense	ShallowDel	7	U	U	Medium	mdanderson.org/ucsc.edu/broad.mit.edu	chr19	42791715	42791715	C	T	0.56	NA	48	62	116	0	IGV	20
+TCGA-HT-7877-01	LGG-GBM (TCGA 2016)	R201W		Missense	ShallowDel	7	U	U	Medium	ucsc.edu/broad.mit.edu	chr19	42791715	42791715	C	T	0.17	NA	86	18	122	0	IGV	8
+TCGA-QH-A86X-01	LGG-GBM (TCGA 2016)	X151_splice		Splice	ShallowDel		U	U		mdanderson.org/ucsc.edu/broad.mit.edu	chr19	42791393	42791393	G	A	0.55	NA	9	11	30	0	IGV	10
+TCGA-HW-7487-01	Glioma (TCGA)	R215Q		Missense	ShallowDel	17	S	U	Medium	hgsc.bcm.edu;broad.mit.edu;ucsc.edu	chr19	42791758	42791758	NA	NA	0.57	NA	16	21	NA	NA	IGV	13
+TCGA-TQ-A7RS-01	LGG-GBM (TCGA 2016)	S231I		Missense	ShallowDel		U	U	High	mdanderson.org/ucsc.edu/broad.mit.edu	chr19	42791806	42791806	G	T	0.53	NA	46	51	183	0	IGV	14
+SNU175_LARGE_INTESTINE	CCLE (Novartis/Broad 2012)	X194_splice		Splice	Diploid		U	U		Broad	chr19	42791603	42791603	T	C	0.27	NA	19	7	NA	NA	IGV	597
+TCGA-HW-7491-01	LGG-GBM (TCGA 2016)	R215W		Missense	ShallowDel	17	U	U	Medium	mdanderson.org/ucsc.edu/broad.mit.edu	chr19	42791757	42791757	C	T	0.79	0.02	10	37	60	1	IGV	11
+TCGA-FG-7638-01	LGG-GBM (TCGA 2016)	R215W		Missense	ShallowDel	17	U	U	Medium	mdanderson.org/ucsc.edu/broad.mit.edu	chr19	42791757	42791757	C	T	0.62	0.01	24	39	113	1	IGV	11
+TCGA-TQ-A7RS-01	LGG-GBM (TCGA 2016)	R202W		Missense	ShallowDel	6	U	U	High	ucsc.edu/broad.mit.edu	chr19	42791718	42791718	C	T	0.16	NA	57	11	134	0	IGV	14
+TCGA-DU-A6S3-01	LGG-GBM (TCGA 2016)	R215W		Missense	ShallowDel	17	U	U	Medium	mdanderson.org/ucsc.edu/broad.mit.edu	chr19	42791757	42791757	C	T	0.66	NA	12	23	54	0	IGV	25
+TCGA-DU-5870-01	Glioma (TCGA)	R215W		Missense	ShallowDel	17	S	U	Medium	hgsc.bcm.edu;broad.mit.edu;ucsc.edu	chr19	42791757	42791757	NA	NA	0.40	NA	15	10	NA	NA	IGV	13
+TCGA-DU-5870-01	LGG-GBM (TCGA 2016)	R215W		Missense	ShallowDel	17	U	U	Medium	mdanderson.org/ucsc.edu/broad.mit.edu	chr19	42791757	42791757	C	T	0.40	NA	15	10	49	0	IGV	11
+TCGA-TQ-A7RU-01	LGG-GBM (TCGA 2016)	R215W		Missense	ShallowDel	17	U	U	Medium	mdanderson.org/ucsc.edu/broad.mit.edu	chr19	42791757	42791757	C	T	0.65	NA	23	42	82	0	IGV	24
+TP_2032	Prostate (SU2C)	R202W		Missense	Diploid	6	U	U	High	NA	chr19	42791718	42791718	C	T	0.01	NA	792	9	NA	NA	IGV	64
+TCGA-TM-A84M-01	LGG-GBM (TCGA 2016)	R215Q		Missense	ShallowDel	17	U	U	Medium	ucsc.edu/broad.mit.edu	chr19	42791758	42791758	G	A	0.18	NA	23	5	52	0	IGV	18
+pfg316T	Stomach (Pfizer UHK)	X151_splice		Splice	NA		U	U		pfizer_uhongkong	chr19	42791393	42791393	G	A	0.23	NA	98	30	113	0	IGV	66
+TCGA-HT-7681-01	Glioma (TCGA)	R215W		Missense	ShallowDel	17	S	U	Medium	hgsc.bcm.edu;broad.mit.edu;ucsc.edu	chr19	42791757	42791757	NA	NA	0.31	NA	40	18	NA	NA	IGV	11
+TCGA-FV-A2QR-01	Liver (TCGA)	X1443_splice		Splice	Diploid		S	U		Baylor	chr19	42798458	42798458	NA	NA	0.06	NA	65	4	71	0	IGV	341
+TCGA-HT-7468-01	LGG-GBM (TCGA 2016)	R215W		Missense	ShallowDel	17	U	U	Medium	mdanderson.org/ucsc.edu/broad.mit.edu	chr19	42791757	42791757	C	T	0.73	NA	13	35	70	0	IGV	13
+TCGA-DB-A64U-01	Glioma (TCGA)	R1512H		Missense	ShallowDel	4	S	U	Low	hgsc.bcm.edu;broad.mit.edu;ucsc.edu	chr19	42799051	42799051	NA	NA	0.47	NA	41	36	NA	NA	IGV	7
+TCGA-VM-A8CE-01	LGG-GBM (TCGA 2016)	R215W		Missense	ShallowDel	17	U	U	Medium	ucsc.edu/broad.mit.edu	chr19	42791757	42791757	C	T	0.14	NA	43	7	87	0	IGV	8
+TCGA-DB-A64Q-01	Glioma (TCGA)	R1512H		Missense	ShallowDel	4	S	U	Low	hgsc.bcm.edu;broad.mit.edu;ucsc.edu	chr19	42799051	42799051	NA	NA	0.70	NA	27	62	NA	NA	IGV	15
+TCGA-DB-A64P-01	Glioma (TCGA)	R202Q		Missense	ShallowDel	6	S	U	High	hgsc.bcm.edu;broad.mit.edu;ucsc.edu	chr19	42791719	42791719	NA	NA	0.29	NA	65	27	NA	NA	IGV	21
+ESO-171	Esophagus (Broad)	X1003_splice		Splice	NA		S	U		Broad	chr19	42796451	42796451	G	A	0.14	NA	123	20	NA	NA	IGV	118
+TCGA-P5-A72Z-01	LGG-GBM (TCGA 2016)	S231G		Missense	ShallowDel		U	U	Low	mdanderson.org/ucsc.edu/broad.mit.edu	chr19	42791805	42791805	A	G	0.94	NA	2	32	57	0	IGV	21
+DLBCL-MAYO_DLBCL_234	DLBCL (Broad 2012)	X151_splice		Splice	NA		U	U		Broad	chr19	42791393	42791393	G	A	NA	NA	NA	NA	NA	NA	IGV	3894
+TCGA-FG-7641-01	Glioma (TCGA)	N205S		Missense	ShallowDel	2	S	U	Medium	hgsc.bcm.edu;broad.mit.edu;ucsc.edu	chr19	42791728	42791728	NA	NA	0.14	NA	95	15	NA	NA	IGV	23
+TCGA-DU-A6S2-01	LGG-GBM (TCGA 2016)	P203S		Missense	ShallowDel	2	U	U	Medium	mdanderson.org/ucsc.edu/broad.mit.edu	chr19	42791721	42791721	C	T	0.50	NA	20	20	71	0	IGV	12
+TCGA-FG-7638-01	Glioma (TCGA)	R215W		Missense	ShallowDel	17	S	U	Medium	hgsc.bcm.edu;broad.mit.edu;ucsc.edu	chr19	42791757	42791757	NA	NA	0.62	NA	24	39	NA	NA	IGV	10
+587238	Colorectal (Genentech)	X255_splice		Splice	NA		U	U		Genentech	chr19	42791881	42791881	T	C	NA	NA	NA	NA	NA	NA	IGV	952
+TCGA-C8-A1HN-01	Breast (TCGA pub)	R1512C		Missense	Diploid	4	S	U	Low	WashU	chr19	42799050	42799050	C	T	NA	NA	NA	NA	NA	NA	IGV	36
+TCGA-HT-7677-01	Glioma (TCGA)	R1512L		Missense	ShallowDel	4	S	U	Low	hgsc.bcm.edu;broad.mit.edu;ucsc.edu	chr19	42799051	42799051	NA	NA	0.70	NA	28	64	NA	NA	IGV	27
+TCGA-S9-A7J3-01	LGG-GBM (TCGA 2016)	R215W		Missense	ShallowDel	17	U	U	Medium	mdanderson.org/ucsc.edu/broad.mit.edu	chr19	42791757	42791757	C	T	0.42	NA	22	16	67	0	IGV	11
+TCGA-DU-6397-01	Glioma (TCGA)	P203A		Missense	ShallowDel	2	S	U	Medium	ucsc.edu	chr19	42791721	42791721	NA	NA	NA	NA	39	NA	NA	NA	IGV	23
+TCGA-HT-7480-01	Glioma (TCGA)	X1003_splice		Splice	ShallowDel		S	U		hgsc.bcm.edu;broad.mit.edu;ucsc.edu	chr19	42796451	42796451	NA	NA	0.38	NA	68	41	NA	NA	IGV	19
+HEC6_ENDOMETRIUM	CCLE (Novartis/Broad 2012)	R215Q		Missense	ShallowDel	17	U	U	Medium	Broad	chr19	42791758	42791758	G	A	0.68	NA	6	13	NA	NA	IGV	501
+TCGA-QH-A65V-01	Glioma (TCGA)	R1515C		Missense	ShallowDel	9	S	U	Low	broad.mit.edu;ucsc.edu	chr19	42799059	42799059	NA	NA	0.31	NA	51	23	NA	NA	IGV	20
+TCGA-KT-A74X-01	LGG-GBM (TCGA 2016)	R215Q		Missense	ShallowDel	17	U	U	Medium	mdanderson.org/ucsc.edu/broad.mit.edu	chr19	42791758	42791758	G	A	0.73	NA	13	35	65	0	IGV	6
+TCGA-FG-7641-01	LGG-GBM (TCGA 2016)	N205S		Missense	ShallowDel	2	U	U	Medium	ucsc.edu/broad.mit.edu	chr19	42791728	42791728	A	G	0.14	NA	95	15	171	0	IGV	16
+TCGA-DU-6400-01	LGG-GBM (TCGA 2016)	P203S		Missense	ShallowDel	2	U	U	Medium	mdanderson.org/ucsc.edu/broad.mit.edu	chr19	42791721	42791721	C	T	0.30	NA	28	12	65	0	IGV	37
+TCGA-VM-A8CE-01	LGG-GBM (TCGA 2016)	R202W		Missense	ShallowDel	6	U	U	High	ucsc.edu/broad.mit.edu	chr19	42791718	42791718	C	T	0.19	NA	30	7	101	0	IGV	8
+TCGA-TQ-A7RO-01	LGG-GBM (TCGA 2016)	R202W		Missense	ShallowDel	6	U	U	High	mdanderson.org/ucsc.edu/broad.mit.edu	chr19	42791718	42791718	C	T	0.56	NA	31	40	174	0	IGV	15
+TCGA-HW-7487-01	LGG-GBM (TCGA 2016)	R215Q		Missense	ShallowDel	17	U	U	Medium	mdanderson.org/ucsc.edu/broad.mit.edu	chr19	42791758	42791758	G	A	0.57	NA	16	21	66	0	IGV	13
+TCGA-FG-5962-01	Glioma (TCGA)	R1515C		Missense	ShallowDel	9	S	U	Low	hgsc.bcm.edu;broad.mit.edu;ucsc.edu	chr19	42799059	42799059	NA	NA	NA	NA	71	NA	NA	NA	IGV	31
+TCGA-DB-A64P-01	LGG-GBM (TCGA 2016)	R202Q		Missense	ShallowDel	6	U	U	High	mdanderson.org/ucsc.edu/broad.mit.edu	chr19	42791719	42791719	G	A	0.28	NA	65	25	108	0	IGV	18
+TCGA-S9-A6WE-01	LGG-GBM (TCGA 2016)	R202W		Missense	ShallowDel	6	U	U	High	mdanderson.org/ucsc.edu/broad.mit.edu	chr19	42791718	42791718	C	T	0.56	NA	31	40	199	0	IGV	9
+TCGA-S9-A6WH-01	LGG-GBM (TCGA 2016)	R215Q		Missense	ShallowDel	17	U	U	Medium	mdanderson.org/ucsc.edu/broad.mit.edu	chr19	42791758	42791758	G	A	0.92	NA	6	71	155	0	IGV	33
+TCGA-HW-7491-01	Glioma (TCGA)	R215W		Missense	ShallowDel	17	S	U	Medium	hgsc.bcm.edu;broad.mit.edu;ucsc.edu	chr19	42791757	42791757	NA	NA	0.79	NA	10	37	NA	NA	IGV	12
+TCGA-HT-7468-01	Glioma (TCGA)	R215W		Missense	ShallowDel	17	S	U	Medium	hgsc.bcm.edu;broad.mit.edu;ucsc.edu	chr19	42791757	42791757	NA	NA	0.73	NA	13	36	NA	NA	IGV	13
+TCGA-E1-5311-01	Glioma (TCGA)	R202W		Missense	ShallowDel	6	S	U	High	hgsc.bcm.edu;broad.mit.edu;ucsc.edu	chr19	42791718	42791718	NA	NA	0.66	NA	28	54	NA	NA	IGV	13
+TCGA-HT-7681-01	LGG-GBM (TCGA 2016)	R215W		Missense	ShallowDel	17	U	U	Medium	mdanderson.org/ucsc.edu/broad.mit.edu	chr19	42791757	42791757	C	T	0.32	NA	39	18	122	0	IGV	11
+TCGA-QH-A6X8-01	LGG-GBM (TCGA 2016)	P203L		Missense	ShallowDel	2	U	U	High	mdanderson.org/ucsc.edu/broad.mit.edu	chr19	42791722	42791722	C	T	0.47	NA	19	17	46	0	IGV	21
+TCGA-R8-A6MO-01	LGG-GBM (TCGA 2016)	R215W		Missense	ShallowDel	17	U	U	Medium	mdanderson.org/ucsc.edu/broad.mit.edu	chr19	42791757	42791757	C	T	0.58	NA	37	51	128	0	IGV	21
+TCGA-C8-A1HN-01	Breast (TCGA 2015)	R1512C		Missense	Gain	4	U	U	Low	genome.wustl.edu;unc.edu	chr19	42799050	42799050	C	T	0.56	NA	19	24	73	0	IGV	38
+TCGA-C8-A1HN-01	Breast (TCGA)	R1512C		Missense	Gain	4	S	U	Low	WashU	chr19	42799050	42799050	NA	NA	NA	NA	NA	NA	NA	NA	IGV	34
+TCGA-DH-5144-01	Glioma (TCGA)	R1515C		Missense	ShallowDel	9	S	U	Low	broad.mit.edu;ucsc.edu	chr19	42799059	42799059	NA	NA	0.78	NA	13	46	NA	NA	IGV	27
+TCGA-HT-7480-01	LGG-GBM (TCGA 2016)	X1003_splice		Splice	ShallowDel		U	U		mdanderson.org/ucsc.edu/broad.mit.edu	chr19	42796451	42796451	G	T	0.38	NA	68	41	237	0	IGV	15
+TCGA-DU-6400-01	Glioma (TCGA)	P203S		Missense	ShallowDel	2	S	U	Medium	hgsc.bcm.edu;broad.mit.edu;ucsc.edu	chr19	42791721	42791721	NA	NA	0.30	NA	28	12	NA	NA	IGV	40
+TCGA-E1-5311-01	LGG-GBM (TCGA 2016)	R202W		Missense	ShallowDel	6	U	U	High	mdanderson.org/ucsc.edu/broad.mit.edu	chr19	42791718	42791718	C	T	0.65	0.01	28	52	186	1	IGV	12
+TCGA-DB-A64R-01	Glioma (TCGA)	R1515C		Missense	ShallowDel	9	S	U	Low	hgsc.bcm.edu;broad.mit.edu;ucsc.edu	chr19	42799059	42799059	NA	NA	NA	NA	NA	42	NA	NA	IGV	13
+HEC108_ENDOMETRIUM	CCLE (Novartis/Broad 2012)	N205D		Missense	Diploid	2	U	U	High	Broad	chr19	42791727	42791727	A	G	0.50	NA	10	10	NA	NA	IGV	1053
+coadread_dfci_2016_306558	Colorectal (DFCI 2016)	R201Q		Missense	NA	7	U	U	Medium	dfci.harvard.edu	chr19	42791716	42791716	G	A	NA	NA	NA	NA	NA	NA	IGV	1329
+TCGA-AB-2910-03	AML (TCGA pub)	G167R		Missense	Diploid	1	S	V	Neutral	WashU	chr19	42791518	42791518	G	A	NA	NA	NA	NA	NA	NA	IGV	12
+TCGA-AB-2910-03	AML (TCGA)	G167R		Missense	Diploid	1	S	V	Neutral	WashU	chr19	42791518	42791518	NA	NA	NA	NA	NA	NA	NA	NA	IGV	12
+TCGA-OR-A5JF-01	ACC (TCGA)	P722R		Missense	Gain		S	U	Neutral	broad.mit.edu;bcgsc.ca	chr19	42795085	42795085	NA	NA	NA	NA	NA	NA	NA	NA	IGV	120
+TCGA-P6-A5OH-01	ACC (TCGA)	V924E		Missense	Gain		S	U	Low	hgsc.bcm.edu;broad.mit.edu;ucsc.edu;bcgsc.ca;mdanderson.org	chr19	42795782	42795782	NA	NA	0.19	NA	117	28	NA	NA	IGV	219
+DS-bla-044	Bladder (MSKCC 2014)	A14T		Missense	Diploid		S	U	Neutral	mskcc.org	chr19	42788896	42788896	G	A	0.42	0.03	31	22	31	1	IGV	35
+P-0000083-T01-IM3	Bladder PV (MSKCC)	S47R		Missense	Diploid		U	U	Neutral	MSK-IMPACT	chr19	42790996	42790996	C	G	0.26	NA	691	237	207	0	IGV	116
+B70	Bladder (BGI 2013)	R1496C		Missense	NA	2	U	U	Low	BGI	chr19	42799002	42799002	C	T	NA	NA	NA	NA	NA	NA	IGV	116
+B110	Bladder (BGI 2013)	V996F		Missense	NA	2	U	U	Low	BGI	chr19	42796337	42796337	G	T	NA	NA	NA	NA	NA	NA	IGV	98
+MSKCC-0760_NR	Bladder (DFCI/MSKCC 2014)	V1072M		Missense	NA		U	U	Neutral	NA	chr19	42796756	42796756	G	A	NA	NA	NA	NA	NA	NA	IGV	84
+MSKCC-0389_R	Bladder (DFCI/MSKCC 2014)	S904C		Missense	NA		U	U	Neutral	NA	chr19	42795722	42795722	C	G	NA	NA	NA	NA	NA	NA	IGV	497
+TCGA-BT-A20O-01	Bladder (TCGA 2014)	E314V		Missense	AMP	1	U	U	Neutral	Broad	chr19	42793049	42793049	A	T	0.08	NA	44	4	NA	NA	IGV	172
+TCGA-G2-A2EO-01	Bladder (TCGA 2014)	E186Q		Missense	Gain	1	U	U	Neutral	Broad	chr19	42791575	42791575	G	C	0.14	NA	154	26	NA	NA	IGV	757
+TCGA-G2-A2EO-01	Bladder (TCGA)	E186Q		Missense	Gain	1	S	U	Neutral	Broad	chr19	42791575	42791575	NA	NA	0.14	NA	154	26	NA	NA	IGV	751
+TCGA-BT-A20O-01	Bladder (TCGA)	E314V		Missense	AMP	1	S	U	Neutral	Broad	chr19	42793049	42793049	NA	NA	NA	NA	44	NA	NA	NA	IGV	173
+TCGA-DU-7302-01	Glioma (TCGA)	E1352Sfs*9		FS del	ShallowDel		S	U		broad.mit.edu;hgsc.bcm.edu	chr19	42798099	42798100	AG	NA	0.47	NA	73	64	NA	NA	IGV	27
+TCGA-DB-A64W-01	Glioma (TCGA)	G235C		Missense	ShallowDel	2	S	U	High	hgsc.bcm.edu;broad.mit.edu;ucsc.edu	chr19	42791817	42791817	NA	NA	0.64	NA	23	41	NA	NA	IGV	38
+TCGA-CS-5394-01	Glioma (TCGA)	E1454Rfs*3		FS ins	ShallowDel		S	U		broad.mit.edu;hgsc.bcm.edu	chr19	42798786	42798787	NA	NA	0.64	NA	14	25	NA	NA	IGV	20
+TCGA-DU-6397-01	Glioma (TCGA)	D226Y		Missense	ShallowDel	2	S	U	Medium	ucsc.edu	chr19	42791790	42791790	NA	NA	NA	NA	39	NA	NA	NA	IGV	23
+TCGA-P5-A5F0-01	Glioma (TCGA)	W238*		Nonsense	ShallowDel		S	U		hgsc.bcm.edu;broad.mit.edu;ucsc.edu	chr19	42791828	42791828	NA	NA	0.41	NA	54	37	NA	NA	IGV	26
+TCGA-HT-7616-01	Glioma (TCGA)	Q824*		Nonsense	ShallowDel	1	S	U		hgsc.bcm.edu;broad.mit.edu;ucsc.edu	chr19	42795390	42795390	NA	NA	NA	NA	18	NA	NA	NA	IGV	39
+TCGA-FG-5964-01	Glioma (TCGA)	V1345Gfs*16		FS del	ShallowDel	1	S	U		broad.mit.edu;hgsc.bcm.edu	chr19	42797980	42797981	TG	NA	0.48	NA	35	32	NA	NA	IGV	30
+TCGA-DH-5141-01	Glioma (TCGA)	S1221*		FS del	ShallowDel		S	U		Broad	chr19	42797299	42797300	TC	NA	NA	NA	NA	NA	NA	NA	IGV	21
+TCGA-HT-7608-01	Glioma (TCGA)	K276Vfs*38		FS del	ShallowDel		S	U		Broad	chr19	42792020	42792021	AG	NA	NA	NA	NA	NA	NA	NA	IGV	13
+TCGA-HT-A619-01	Glioma (TCGA)	K899Qfs*32		FS ins	ShallowDel		S	U		broad.mit.edu;hgsc.bcm.edu	chr19	42795608	42795609	NA	NA	0.83	NA	18	88	NA	NA	IGV	42
+TCGA-DB-5274-01	Glioma (TCGA)	V892Tfs*38		FS del	ShallowDel		S	U		Broad	chr19	42795593	42795594	TG	NA	NA	NA	64	NA	NA	NA	IGV	33
+TCGA-DU-8168-01	Glioma (TCGA)	V892Tfs*38		FS del	ShallowDel		S	U		broad.mit.edu;hgsc.bcm.edu	chr19	42795593	42795594	TG	NA	0.80	NA	12	49	NA	NA	IGV	47
+TCGA-DH-A66F-01	Glioma (TCGA)	W269R		Missense	ShallowDel	1	S	U	Medium	Broad	chr19	42792001	42792001	NA	NA	NA	NA	NA	NA	NA	NA	IGV	15
+TCGA-HT-A5R9-01	Glioma (TCGA)	K1517_I1518delinsN		IF del	ShallowDel		S	U		broad.mit.edu;hgsc.bcm.edu	chr19	42799067	42799069	GAT	NA	0.55	NA	36	44	NA	NA	IGV	32
+TCGA-HT-7875-01	Glioma (TCGA)	Q994*		Nonsense	ShallowDel	4	S	U		broad.mit.edu;ucsc.edu	chr19	42796331	42796331	NA	NA	0.39	NA	38	24	NA	NA	IGV	27
+TCGA-DU-5874-01	Glioma (TCGA)	K488K		splice_region	ShallowDel		S	U		Baylor	chr19	42794103	42794103	NA	NA	NA	NA	NA	NA	NA	NA	IGV	32
+TCGA-DB-A64V-01	Glioma (TCGA)	V230I		Missense	ShallowDel	2	S	U	Neutral	hgsc.bcm.edu;broad.mit.edu;ucsc.edu	chr19	42791802	42791802	NA	NA	0.14	NA	69	11	NA	NA	IGV	21
+TCGA-HT-7694-01	Glioma (TCGA)	L418Afs*15		FS ins	ShallowDel		S	U		broad.mit.edu;hgsc.bcm.edu	chr19	42793443	42793444	NA	NA	0.24	NA	45	14	NA	NA	IGV	26
+TCGA-DU-7018-01	Glioma (TCGA)	S146*		FS del	ShallowDel		S	U		broad.mit.edu;hgsc.bcm.edu	chr19	42791372	42791373	AG	NA	NA	NA	NA	19	NA	NA	IGV	29
+TCGA-HT-7695-01	Glioma (TCGA)	R1471Q		Missense	ShallowDel	2	S	U	Low	hgsc.bcm.edu;broad.mit.edu;ucsc.edu	chr19	42798840	42798840	NA	NA	0.18	NA	82	18	NA	NA	IGV	14
+TCGA-FG-7634-01	Glioma (TCGA)	R1471Q		Missense	ShallowDel	2	S	U	Low	hgsc.bcm.edu;broad.mit.edu;ucsc.edu	chr19	42798840	42798840	NA	NA	0.56	NA	28	36	NA	NA	IGV	15
+TCGA-HT-8012-01	Glioma (TCGA)	G90Efs*3		FS del	ShallowDel		S	U		Broad	chr19	42791207	42791208	AG	NA	NA	NA	102	NA	NA	NA	IGV	15
+TCGA-CS-6668-01	Glioma (TCGA)	S721Lfs*42		FS ins	ShallowDel		S	U		broad.mit.edu;hgsc.bcm.edu	chr19	42795074	42795075	NA	NA	NA	NA	NA	12	NA	NA	IGV	18
+TCGA-HT-8012-01	Glioma (TCGA)	S370Rfs*6		FS del	ShallowDel	1	S	U		broad.mit.edu;hgsc.bcm.edu	chr19	42793215	42793218	CAGT	NA	0.32	NA	59	28	NA	NA	IGV	15
+TCGA-DB-A64L-01	Glioma (TCGA)	S370Rfs*6		FS del	DeepDel	1	S	U		broad.mit.edu;hgsc.bcm.edu	chr19	42793215	42793218	CAGT	NA	0.53	NA	60	69	NA	NA	IGV	58
+TCGA-HT-8105-01	Glioma (TCGA)	L664Vfs*25		FS del	ShallowDel		S	U		broad.mit.edu;hgsc.bcm.edu	chr19	42794910	42794911	CT	NA	NA	NA	NA	17	NA	NA	IGV	40
+TCGA-P5-A5F0-01	Glioma (TCGA)	Q1113*		Nonsense	ShallowDel		S	U		hgsc.bcm.edu;broad.mit.edu	chr19	42796879	42796879	NA	NA	NA	NA	85	NA	NA	NA	IGV	26
+TCGA-HT-A4DV-01	Glioma (TCGA)	A253V		Missense	ShallowDel	2	S	U	High	Broad	chr19	42791872	42791872	NA	NA	NA	NA	32	NA	NA	NA	IGV	9
+TCGA-QH-A65Z-01	Glioma (TCGA)	V1278Pfs*65		FS del	ShallowDel		S	U		broad.mit.edu;hgsc.bcm.edu	chr19	42797776	42797777	GC	NA	NA	NA	NA	10	NA	NA	IGV	22
+TCGA-DB-5278-01	Glioma (TCGA)	F210C		Missense	ShallowDel	1	S	U	High	hgsc.bcm.edu;broad.mit.edu;ucsc.edu	chr19	42791743	42791743	NA	NA	0.51	NA	38	39	NA	NA	IGV	7
+TCGA-HT-7875-01	Glioma (TCGA)	V1122Gfs*28		FS del	ShallowDel		S	U		broad.mit.edu;hgsc.bcm.edu	chr19	42796905	42796906	TG	NA	0.19	NA	79	19	NA	NA	IGV	27
+TCGA-E1-5319-01	Glioma (TCGA)	V1122Gfs*28		FS del	ShallowDel		S	U		broad.mit.edu;hgsc.bcm.edu	chr19	42796905	42796906	TG	NA	0.26	NA	73	26	NA	NA	IGV	29
+TCGA-DB-A4XA-01	Glioma (TCGA)	W238del		IF del	ShallowDel		S	U		broad.mit.edu;hgsc.bcm.edu	chr19	42791822	42791824	GTG	NA	0.20	NA	47	12	NA	NA	IGV	8
+TCGA-DU-7294-01	Glioma (TCGA)	L234Q		Missense	ShallowDel	1	S	U	High	broad.mit.edu;ucsc.edu	chr19	42791815	42791815	NA	NA	0.66	NA	11	21	NA	NA	IGV	19
+TCGA-IK-8125-01	Glioma (TCGA)	K1268Nfs*34		FS del	ShallowDel		S	U		broad.mit.edu;hgsc.bcm.edu	chr19	42797750	42797750	NA	NA	0.54	NA	21	25	NA	NA	IGV	43
+TCGA-HT-8012-01	Glioma (TCGA)	V1038Sfs*112		FS del	ShallowDel		S	U		broad.mit.edu;hgsc.bcm.edu	chr19	42796554	42796555	TG	NA	0.19	NA	46	11	NA	NA	IGV	15
+TCGA-QH-A65Z-01	Glioma (TCGA)	A1492Sfs*22		FS ins	ShallowDel		S	U		Broad	chr19	42798989	42798990	NA	NA	NA	NA	71	NA	NA	NA	IGV	22
+TCGA-EZ-7264-01	Glioma (TCGA)	F1484V		Missense	ShallowDel	2	S	U	Low	hgsc.bcm.edu;broad.mit.edu;ucsc.edu	chr19	42798878	42798878	NA	NA	0.74	NA	12	35	NA	NA	IGV	21
+TCGA-DU-6400-01	Glioma (TCGA)	Y395Mfs*40		FS del	ShallowDel		S	U		broad.mit.edu;hgsc.bcm.edu	chr19	42793381	42793381	NA	NA	0.59	NA	26	37	NA	NA	IGV	40
+TCGA-FG-7641-01	Glioma (TCGA)	R228W		Missense	ShallowDel	4	S	U	Medium	hgsc.bcm.edu;broad.mit.edu;ucsc.edu	chr19	42791796	42791796	NA	NA	0.14	NA	87	14	NA	NA	IGV	23
+TCGA-FG-7641-01	Glioma (TCGA)	V1474L		Missense	ShallowDel	5	S	U	Low	hgsc.bcm.edu;broad.mit.edu;ucsc.edu	chr19	42798848	42798848	NA	NA	NA	NA	75	NA	NA	NA	IGV	23
+TCGA-E1-5318-01	Glioma (TCGA)	V778Pfs*155		FS ins	ShallowDel		S	U		broad.mit.edu;hgsc.bcm.edu	chr19	42795241	42795242	NA	GCCCCCT	0.25	NA	30	10	NA	NA	IGV	31
+TCGA-HT-7471-01	Glioma (TCGA)	V498*		FS del	ShallowDel		S	U		broad.mit.edu;hgsc.bcm.edu	chr19	42794411	42794411	NA	NA	0.76	NA	26	82	NA	NA	IGV	15
+TCGA-DU-6393-01	Glioma (TCGA)	Q992Afs*158		FS del	ShallowDel		S	U		broad.mit.edu;hgsc.bcm.edu	chr19	42796321	42796322	CT	NA	NA	NA	NA	24	NA	NA	IGV	25
+TCGA-P5-A5F0-01	Glioma (TCGA)	A900Pfs*24		FS del	ShallowDel	1	S	U		Broad	chr19	42795615	42795615	NA	NA	0.13	NA	120	18	NA	NA	IGV	26
+TCGA-FG-A60K-01	Glioma (TCGA)	R1465Afs*50		FS ins	ShallowDel		S	U		broad.mit.edu;hgsc.bcm.edu	chr19	42798816	42798817	NA	GCGG	0.42	NA	30	22	NA	NA	IGV	18
+TCGA-C8-A26Y-01	Breast (TCGA 2015)	S1058L		Missense	ShallowDel		U	U	Neutral	unc.edu	chr19	42796616	42796616	C	T	0.33	NA	2	1	24	0	IGV	599
+TCGA-D8-A147-01	Breast (TCGA 2015)	A582P		Missense	AMP	1	U	U	Neutral	genome.wustl.edu;unc.edu	chr19	42794664	42794664	G	C	0.21	NA	78	21	44	0	IGV	107
+TCGA-AC-A23H-01	Breast (TCGA 2015)	E1255Q		Missense	Diploid	1	U	U	Neutral	genome.wustl.edu;unc.edu	chr19	42797401	42797401	G	C	0.42	NA	7	5	10	0	IGV	3863
+TCGA-A8-A07F-01	Breast (TCGA 2015)	S1117Kfs*34		FS ins	Diploid		U	U		WashU	chr19	42796882	42796883	-	C	0.38	NA	5	3	24	0	IGV	25
+TCGA-A8-A07R-01	Breast (TCGA 2015)	S1117Kfs*34		FS ins	Gain		U	U		WashU	chr19	42796882	42796883	-	C	0.10	NA	36	4	104	0	IGV	372
+TCGA-AR-A0TY-01	Breast (TCGA 2015)	S1117Kfs*34		FS ins	Diploid		U	U		WashU	chr19	42796882	42796883	-	C	0.18	NA	9	2	106	0	IGV	109
+TCGA-D8-A27G-01	Breast (TCGA 2015)	D433N		Missense	Diploid		U	U	Low	unc.edu	chr19	42793495	42793495	G	A	0.08	NA	36	3	88	0	IGV	817
+TCGA-D8-A147-01	Breast (TCGA pub)	A582P		Missense	Gain	1	S	U	Neutral	WashU	chr19	42794664	42794664	G	C	NA	NA	NA	NA	NA	NA	IGV	106
+TCGA-AR-A0TY-01	Breast (TCGA)	S1117Kfs*34		FS ins	Diploid		S	U		WashU	chr19	42796882	42796883	NA	NA	NA	NA	NA	NA	NA	NA	IGV	100
+TCGA-A8-A07R-01	Breast (TCGA)	S1117Kfs*34		FS ins	Gain		S	U		WashU	chr19	42796882	42796883	NA	NA	NA	NA	NA	NA	NA	NA	IGV	368
+TCGA-A8-A07F-01	Breast (TCGA)	S1117Kfs*34		FS ins	Diploid		S	U		WashU	chr19	42796882	42796883	NA	NA	NA	NA	NA	NA	NA	NA	IGV	23
+TCGA-D8-A147-01	Breast (TCGA)	A582P		Missense	AMP	1	S	U	Neutral	WashU	chr19	42794664	42794664	NA	NA	NA	NA	NA	NA	NA	NA	IGV	92
+TCGA-AC-A23H-01	Breast (TCGA)	E1255Q		Missense	Diploid	1	S	U	Neutral	WashU	chr19	42797401	42797401	NA	NA	NA	NA	NA	NA	NA	NA	IGV	3504
+NCIH1930_LUNG	CCLE (Novartis/Broad 2012)	P897T		Missense	Gain		U	U	Neutral	Broad	chr19	42795609	42795609	C	A	0.16	NA	47	9	NA	NA	IGV	114
+LS180_LARGE_INTESTINE	CCLE (Novartis/Broad 2012)	Y249H		Missense	Diploid		U	U	Medium	Broad	chr19	42791859	42791859	T	C	0.43	NA	13	10	NA	NA	IGV	228
+NCIH2172_LUNG	CCLE (Novartis/Broad 2012)	G109R		Missense	Gain		U	U	Neutral	Broad	chr19	42791265	42791265	G	A	0.36	NA	9	5	NA	NA	IGV	176
+JK1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	CCLE (Novartis/Broad 2012)	S734L		Missense	Diploid		U	U	Neutral	Broad	chr19	42795121	42795121	C	T	0.75	NA	1	3	NA	NA	IGV	26
+MDAPCA2B_PROSTATE	CCLE (Novartis/Broad 2012)	G720Afs*8		FS del	Diploid		U	U		Broad	chr19	42795075	42795075	G	-	0.95	NA	2	42	NA	NA	IGV	220
+GSS_STOMACH	CCLE (Novartis/Broad 2012)	E482G		Missense	Diploid		U	U	Neutral	Broad	chr19	42794084	42794084	A	G	0.62	NA	5	8	NA	NA	IGV	54
+SKMEL2_SKIN	CCLE (Novartis/Broad 2012)	R274P		Missense	Diploid	1	U	U	Low	Broad	chr19	42792017	42792017	G	C	0.65	NA	9	17	NA	NA	IGV	90
+2313287_STOMACH	CCLE (Novartis/Broad 2012)	R1199W		Missense	Diploid		U	U	Neutral	Broad	chr19	42797233	42797233	C	T	0.50	NA	9	9	NA	NA	IGV	249
+CHL1_SKIN	CCLE (Novartis/Broad 2012)	K466N		Missense	ShallowDel		U	U	Low	Broad	chr19	42794037	42794037	G	C	0.50	NA	5	5	NA	NA	IGV	102
+HEC108_ENDOMETRIUM	CCLE (Novartis/Broad 2012)	P135Qfs*70		FS del	Diploid		U	U		Broad	chr19	42791339	42791339	C	-	0.38	NA	16	10	NA	NA	IGV	1053
+T84_LARGE_INTESTINE	CCLE (Novartis/Broad 2012)	Y249*		Nonsense	Diploid		U	U		Broad	chr19	42791861	42791861	C	A	0.55	NA	5	6	NA	NA	IGV	45
+REH_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	CCLE (Novartis/Broad 2012)	A785Pfs*139		FS del	Diploid		U	U		Broad	chr19	42795269	42795269	G	-	0.43	NA	4	3	NA	NA	IGV	212
+HEC6_ENDOMETRIUM	CCLE (Novartis/Broad 2012)	E1433K		Missense	ShallowDel		U	U	Low	Broad	chr19	42798426	42798426	G	A	0.31	NA	11	5	NA	NA	IGV	501
+SNGM_ENDOMETRIUM	CCLE (Novartis/Broad 2012)	R181W		Missense	Diploid	1	U	U	Neutral	Broad	chr19	42791560	42791560	C	T	0.19	NA	75	18	NA	NA	IGV	267
+SNUC2A_LARGE_INTESTINE	CCLE (Novartis/Broad 2012)	T1525A		Missense	Diploid		U	U	Neutral	Broad	chr19	42799089	42799089	A	G	0.45	NA	11	9	NA	NA	IGV	368
+HS618T_LUNG	CCLE (Novartis/Broad 2012)	S1044P		Missense	Diploid		U	U	Neutral	Broad	chr19	42796573	42796573	T	C	0.33	NA	6	3	NA	NA	IGV	24
+NCIH1930_LUNG	CCLE (Novartis/Broad 2012)	R340L		Missense	Gain	1	U	U	Neutral	Broad	chr19	42793127	42793127	G	T	0.45	NA	135	111	NA	NA	IGV	114
+AN3CA_ENDOMETRIUM	CCLE (Novartis/Broad 2012)	Y249C		Missense	Diploid		U	U	High	Broad	chr19	42791860	42791860	A	G	0.33	NA	16	8	NA	NA	IGV	249
+DV90_LUNG	CCLE (Novartis/Broad 2012)	P1248Hfs*54		FS del	Diploid		U	U		Broad	chr19	42797376	42797376	C	-	0.50	NA	4	4	NA	NA	IGV	209
+TE5_OESOPHAGUS	CCLE (Novartis/Broad 2012)	N702S		Missense	ShallowDel		U	U	Neutral	Broad	chr19	42795025	42795025	A	G	0.33	NA	6	3	NA	NA	IGV	45
+SNU1_STOMACH	CCLE (Novartis/Broad 2012)	N702S		Missense	Diploid		U	U	Neutral	Broad	chr19	42795025	42795025	A	G	0.43	NA	8	6	NA	NA	IGV	217
+A3KAW_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	CCLE (Novartis/Broad 2012)	N702S		Missense	Diploid		U	U	Neutral	Broad	chr19	42795025	42795025	A	G	0.60	NA	4	6	NA	NA	IGV	63
+KS1_CENTRAL_NERVOUS_SYSTEM	CCLE (Novartis/Broad 2012)	N702S		Missense	ShallowDel		U	U	Neutral	Broad	chr19	42795025	42795025	A	G	0.17	NA	24	5	NA	NA	IGV	54
+OVK18_OVARY	CCLE (Novartis/Broad 2012)	N702S		Missense	Diploid		U	U	Neutral	Broad	chr19	42795025	42795025	A	G	0.30	NA	7	3	NA	NA	IGV	193
+SET2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	CCLE (Novartis/Broad 2012)	P1538L		Missense	Gain		U	U	Neutral	Broad	chr19	42799129	42799129	C	T	0.33	NA	8	4	NA	NA	IGV	40
+HRT18_LARGE_INTESTINE	CCLE (Novartis/Broad 2012)	R340W		Missense	Diploid	1	U	U	Neutral	Broad	chr19	42793126	42793126	C	T	0.37	NA	65	38	NA	NA	IGV	601
+HCT15_LARGE_INTESTINE	CCLE (Novartis/Broad 2012)	R340W		Missense	Diploid	1	U	U	Neutral	Broad	chr19	42793126	42793126	C	T	0.54	NA	17	20	NA	NA	IGV	737
+P3HR1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	CCLE (Novartis/Broad 2012)	Y239*		Nonsense	Diploid		U	U		Broad	chr19	42791831	42791831	T	G	0.41	NA	13	9	NA	NA	IGV	43
+SH10TC_STOMACH	CCLE (Novartis/Broad 2012)	P1146L		Missense	Diploid		U	U	Neutral	Broad	chr19	42796979	42796979	C	T	1.00	NA	0	4	NA	NA	IGV	66
+JHH5_LIVER	CCLE (Novartis/Broad 2012)	P1146L		Missense	Gain		U	U	Neutral	Broad	chr19	42796979	42796979	C	T	0.28	NA	36	14	NA	NA	IGV	66
+OVK18_OVARY	CCLE (Novartis/Broad 2012)	P1146L		Missense	Diploid		U	U	Neutral	Broad	chr19	42796979	42796979	C	T	0.46	NA	7	6	NA	NA	IGV	193
+SNUC4_LARGE_INTESTINE	CCLE (Novartis/Broad 2012)	R507H		Missense	Diploid		U	U	Neutral	Broad	chr19	42794440	42794440	G	A	0.60	NA	2	3	NA	NA	IGV	273
+SNU407_LARGE_INTESTINE	CCLE (Novartis/Broad 2012)	R1171Q		Missense	Diploid	1	U	U	Neutral	Broad	chr19	42797150	42797150	G	A	0.57	NA	9	12	NA	NA	IGV	277
+MOLP8_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	CCLE (Novartis/Broad 2012)	G555R		Missense	Diploid		U	U	Neutral	Broad	chr19	42794583	42794583	G	C	0.52	NA	24	26	NA	NA	IGV	47
+HEC59_ENDOMETRIUM	CCLE (Novartis/Broad 2012)	L1371M		Missense	Gain		U	U	Low	Broad	chr19	42798157	42798157	C	A	0.21	NA	255	66	NA	NA	IGV	710
+CCK81_LARGE_INTESTINE	CCLE (Novartis/Broad 2012)	P1529Lfs*91		FS del	Diploid		U	U		Broad	chr19	42799098	42799098	C	-	0.49	NA	44	42	NA	NA	IGV	364
+CW2_LARGE_INTESTINE	CCLE (Novartis/Broad 2012)	N193D		Missense	Diploid		U	U	Neutral	Broad	chr19	42791596	42791596	A	G	0.48	NA	11	10	NA	NA	IGV	860
+NCIH2405_LUNG	CCLE (Novartis/Broad 2012)	P952S		Missense	Gain		U	U	Low	Broad	chr19	42795865	42795865	C	T	0.59	NA	9	13	NA	NA	IGV	23
+HEC251_ENDOMETRIUM	CCLE (Novartis/Broad 2012)	N1396K		Missense	Diploid		U	U	Low	Broad	chr19	42798234	42798234	C	A	0.12	NA	105	14	NA	NA	IGV	1165
+CW2_LARGE_INTESTINE	CCLE (Novartis/Broad 2012)	D1435Gfs*6		FS ins	Diploid		U	U		Broad	chr19	42798427	42798428	-	G	0.41	NA	10	7	NA	NA	IGV	860
+LN229_CENTRAL_NERVOUS_SYSTEM	CCLE (Novartis/Broad 2012)	S694C		Missense	ShallowDel		U	U	Neutral	Broad	chr19	42795001	42795001	C	G	0.11	NA	31	4	NA	NA	IGV	61
+SNU1197_LARGE_INTESTINE	CCLE (Novartis/Broad 2012)	R716W		Missense	Diploid	1	U	U	Neutral	Broad	chr19	42795066	42795066	C	T	0.55	NA	5	6	NA	NA	IGV	44
+HPBALL_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	CCLE (Novartis/Broad 2012)	A216V		Missense	Diploid		U	U	Medium	Broad	chr19	42791761	42791761	C	T	0.33	NA	18	9	NA	NA	IGV	155
+KIJK_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	CCLE (Novartis/Broad 2012)	D327N		Missense	Diploid		U	U	Neutral	Broad	chr19	42793087	42793087	G	A	0.26	NA	120	43	NA	NA	IGV	66
+SNU1040_LARGE_INTESTINE	CCLE (Novartis/Broad 2012)	A1014V		Missense	Diploid		U	U	Neutral	Broad	chr19	42796484	42796484	C	T	1.00	NA	0	3	NA	NA	IGV	1304
+HEC6_ENDOMETRIUM	CCLE (Novartis/Broad 2012)	A1014V		Missense	ShallowDel		U	U	Neutral	Broad	chr19	42796484	42796484	C	T	0.67	NA	2	4	NA	NA	IGV	501
+PK45H_PANCREAS	CCLE (Novartis/Broad 2012)	A1014V		Missense	ShallowDel		U	U	Neutral	Broad	chr19	42796484	42796484	C	T	0.80	NA	1	4	NA	NA	IGV	47
+HS172T_URINARY_TRACT	CCLE (Novartis/Broad 2012)	P352R		Missense	Diploid		U	U	Low	Broad	chr19	42793163	42793163	C	G	0.23	NA	24	7	NA	NA	IGV	21
+HEC1B_ENDOMETRIUM	CCLE (Novartis/Broad 2012)	R1496H		Missense	Gain	2	U	U	Low	Broad	chr19	42799003	42799003	G	A	0.17	NA	45	9	NA	NA	IGV	322
+NCIH716_LARGE_INTESTINE	CCLE (Novartis/Broad 2012)	P1148L		Missense	ShallowDel		U	U	Neutral	Broad	chr19	42796985	42796985	C	T	0.44	NA	14	11	NA	NA	IGV	42
+HCC1428_BREAST	CCLE (Novartis/Broad 2012)	R572W		Missense	Gain	1	U	U	Neutral	Broad	chr19	42794634	42794634	C	T	1.00	NA	0	9	NA	NA	IGV	37
+GP2D_LARGE_INTESTINE	CCLE (Novartis/Broad 2012)	T1375Pfs*40		FS del	Diploid	1	U	U		Broad	chr19	42798164	42798164	C	-	0.43	NA	165	123	NA	NA	IGV	579
+AGS_STOMACH	CCLE (Novartis/Broad 2012)	F780S		Missense	Gain		U	U	Neutral	Broad	chr19	42795259	42795259	T	C	0.40	NA	3	2	NA	NA	IGV	119
+BT474_BREAST	CCLE (Novartis/Broad 2012)	L1467V		Missense	Gain		U	U	Low	Broad	chr19	42798827	42798827	C	G	0.46	NA	129	109	NA	NA	IGV	106
+MOLP8_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	CCLE (Novartis/Broad 2012)	C1084S		Missense	Diploid		U	U	Neutral	Broad	chr19	42796793	42796793	G	C	0.56	NA	19	24	NA	NA	IGV	47
+HEC59_ENDOMETRIUM	CCLE (Novartis/Broad 2012)	A1183V		Missense	Gain		U	U	Neutral	Broad	chr19	42797186	42797186	C	T	0.39	NA	65	42	NA	NA	IGV	710
+SNU1040_LARGE_INTESTINE	CCLE (Novartis/Broad 2012)	P1102L		Missense	Diploid		U	U	Neutral	Broad	chr19	42796847	42796847	C	T	0.58	NA	11	15	NA	NA	IGV	1304
+RI1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	CCLE (Novartis/Broad 2012)	R190C		Missense	AMP	1	U	U	Low	Broad	chr19	42791587	42791587	C	T	0.75	NA	45	136	NA	NA	IGV	32
+NCIH1573_LUNG	CCLE (Novartis/Broad 2012)	G1190V		Missense	ShallowDel		U	U	Neutral	Broad	chr19	42797207	42797207	G	T	1.00	NA	0	7	NA	NA	IGV	172
+GP2D_LARGE_INTESTINE	CCLE (Novartis/Broad 2012)	L571Yfs*157		FS del	Diploid		U	U		Broad	chr19	42794627	42794627	C	-	0.43	NA	40	30	NA	NA	IGV	579
+LOVO_LARGE_INTESTINE	CCLE (Novartis/Broad 2012)	A1521T		Missense	Diploid		U	U	Neutral	Broad	chr19	42799077	42799077	G	A	0.13	NA	84	12	NA	NA	IGV	266
+SW1783_CENTRAL_NERVOUS_SYSTEM	CCLE (Novartis/Broad 2012)	P620S		Missense	ShallowDel		U	U	Neutral	Broad	chr19	42794778	42794778	C	T	0.40	NA	3	2	NA	NA	IGV	68
+SNU475_LIVER	CCLE (Novartis/Broad 2012)	P575R		Missense	Gain		U	U	Neutral	Broad	chr19	42794644	42794644	C	G	0.51	NA	20	21	NA	NA	IGV	56
+CORL47_LUNG	CCLE (Novartis/Broad 2012)	P887T		Missense	Diploid		U	U	Neutral	Broad	chr19	42795579	42795579	C	A	0.33	NA	24	12	NA	NA	IGV	49
+RL952_ENDOMETRIUM	CCLE (Novartis/Broad 2012)	L571I		Missense	Diploid		U	U	Neutral	Broad	chr19	42794631	42794631	C	A	0.58	NA	13	18	NA	NA	IGV	296
+HEC151_ENDOMETRIUM	CCLE (Novartis/Broad 2012)	A62V		Missense	Diploid		U	U	Neutral	Broad	chr19	42791040	42791040	C	T	0.37	NA	45	26	NA	NA	IGV	376
+MFE319_ENDOMETRIUM	CCLE (Novartis/Broad 2012)	P1559S		Missense	Diploid		U	U	Neutral	Broad	chr19	42799191	42799191	C	T	0.42	NA	7	5	NA	NA	IGV	505
+CW2_LARGE_INTESTINE	CCLE (Novartis/Broad 2012)	A900Pfs*24		FS del	Diploid		U	U		Broad	chr19	42795609	42795609	C	-	0.39	NA	17	11	NA	NA	IGV	860
+TOLEDO_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	CCLE (Novartis/Broad 2012)	P897L		Missense	Diploid		U	U	Neutral	Broad	chr19	42795610	42795610	C	T	0.55	NA	9	11	NA	NA	IGV	38
+HCC2218_BREAST	CCLE (Novartis/Broad 2012)	E104K		Missense	Diploid	1	U	U	Neutral	Broad	chr19	42791250	42791250	G	A	0.40	NA	9	6	NA	NA	IGV	47
+TCGA-JW-A5VL-01	Cervical (TCGA)	E698K		Missense	Diploid		S	U	Neutral	WashU	chr19	42795012	42795012	NA	NA	NA	NA	NA	NA	NA	NA	IGV	1780
+TCGA-EK-A3GK-01	Cervical (TCGA)	E485Q		Missense	Diploid		S	U	Neutral	WashU	chr19	42794092	42794092	NA	NA	NA	NA	NA	NA	NA	NA	IGV	1077
+TCGA-LP-A4AV-01	Cervical (TCGA)	S950L		Missense	Diploid		S	U	Neutral	WashU	chr19	42795860	42795860	NA	NA	NA	NA	NA	NA	NA	NA	IGV	347
+TCGA-Q1-A6DT-01	Cervical (TCGA)	P1081L		Missense	ShallowDel		S	U	Neutral	WashU	chr19	42796784	42796784	NA	NA	NA	NA	NA	NA	NA	NA	IGV	149
+TCGA-C5-A1MN-01	Cervical (TCGA)	P1090T		Missense	Diploid		S	U	Neutral	WashU	chr19	42796810	42796810	NA	NA	NA	NA	NA	NA	NA	NA	IGV	133
+TCGA-C5-A1MJ-01	Cervical (TCGA)	D369H		Missense	ShallowDel	1	S	U	Neutral	WashU	chr19	42793213	42793213	NA	NA	NA	NA	NA	NA	NA	NA	IGV	72
+TCGA-Q1-A73O-01	Cervical (TCGA)	E95Q		Missense	Diploid		S	U	Neutral	WashU	chr19	42791223	42791223	NA	NA	NA	NA	NA	NA	NA	NA	IGV	1265
+TCGA-IR-A3LH-01	Cervical (TCGA)	E1237K		Missense	Gain		S	U	Neutral	WashU	chr19	42797347	42797347	NA	NA	NA	NA	NA	NA	NA	NA	IGV	726
+cll_iuopa_2015_384	CLL(IUOPA 2015)	N674S		Missense	NA		U	U	Low	www.unioviedo.es/IUOPA/	chr19	42794941	42794941	A	G	NA	NA	NA	NA	NA	NA	IGV	19
+cll_iuopa_2015_326	CLL(IUOPA 2015)	L177I		Missense	NA		U	U	Low	www.unioviedo.es/IUOPA/	chr19	42791548	42791548	C	A	NA	NA	NA	NA	NA	NA	IGV	18
+ccRCC_91	ccRCC (U Tokyo)	R716W		Missense	NA	1	U	U	Neutral	UTokyo	chr19	42795066	42795066	C	T	NA	NA	NA	NA	NA	NA	IGV	53
+coadread_dfci_2016_3646	Colorectal (DFCI 2016)	P98Lfs*107		FS del	NA		U	U		dfci.harvard.edu	chr19	42791229	42791229	C	-	NA	NA	NA	NA	NA	NA	IGV	1299
+coadread_dfci_2016_621	Colorectal (DFCI 2016)	R84Q		Missense	NA		U	U	Neutral	dfci.harvard.edu	chr19	42791191	42791191	G	A	NA	NA	NA	NA	NA	NA	IGV	151
+coadread_dfci_2016_3263	Colorectal (DFCI 2016)	C1506Y		Missense	NA		U	U	Low	dfci.harvard.edu	chr19	42799033	42799033	G	A	NA	NA	NA	NA	NA	NA	IGV	1382
+coadread_dfci_2016_462	Colorectal (DFCI 2016)	G365S		Missense	NA		U	U	Neutral	dfci.harvard.edu	chr19	42793201	42793201	G	A	NA	NA	NA	NA	NA	NA	IGV	305
+coadread_dfci_2016_1748	Colorectal (DFCI 2016)	P1148L		Missense	NA		U	U	Neutral	dfci.harvard.edu	chr19	42796985	42796985	C	T	NA	NA	NA	NA	NA	NA	IGV	1195
+coadread_dfci_2016_233366	Colorectal (DFCI 2016)	P1459S		Missense	NA		U	U	Low	dfci.harvard.edu	chr19	42798803	42798803	C	T	NA	NA	NA	NA	NA	NA	IGV	1102
+coadread_dfci_2016_3010	Colorectal (DFCI 2016)	F550del		IF del	NA		U	U		dfci.harvard.edu	chr19	42794567	42794569	CTT	-	NA	NA	NA	NA	NA	NA	IGV	157
+coadread_dfci_2016_2624	Colorectal (DFCI 2016)	A546T		Missense	NA		U	U	Neutral	dfci.harvard.edu	chr19	42794556	42794556	G	A	NA	NA	NA	NA	NA	NA	IGV	1225
+coadread_dfci_2016_2944	Colorectal (DFCI 2016)	G1088Efs*5		FS del	NA		U	U		dfci.harvard.edu	chr19	42796799	42796799	C	-	NA	NA	NA	NA	NA	NA	IGV	725
+coadread_dfci_2016_1230	Colorectal (DFCI 2016)	R589Q		Missense	NA	1	U	U	Neutral	dfci.harvard.edu	chr19	42794686	42794686	G	A	NA	NA	NA	NA	NA	NA	IGV	641
+coadread_dfci_2016_1222	Colorectal (DFCI 2016)	R221C		Missense	NA	2	U	U	Medium	dfci.harvard.edu	chr19	42791775	42791775	C	T	NA	NA	NA	NA	NA	NA	IGV	1292
+coadread_dfci_2016_546	Colorectal (DFCI 2016)	P509Hfs*14		FS del	NA		U	U		dfci.harvard.edu	chr19	42794441	42794441	C	-	NA	NA	NA	NA	NA	NA	IGV	1082
+coadread_dfci_2016_3658	Colorectal (DFCI 2016)	P509Hfs*14		FS del	NA		U	U		dfci.harvard.edu	chr19	42794441	42794441	C	-	NA	NA	NA	NA	NA	NA	IGV	1003
+coadread_dfci_2016_3269	Colorectal (DFCI 2016)	P509Hfs*14		FS del	NA		U	U		dfci.harvard.edu	chr19	42794441	42794441	C	-	NA	NA	NA	NA	NA	NA	IGV	1087
+coadread_dfci_2016_2281	Colorectal (DFCI 2016)	P1141T		Missense	NA		U	U	Neutral	dfci.harvard.edu	chr19	42796963	42796963	C	A	NA	NA	NA	NA	NA	NA	IGV	551
+coadread_dfci_2016_102	Colorectal (DFCI 2016)	P1129S		Missense	NA		U	U	Neutral	dfci.harvard.edu	chr19	42796927	42796927	C	T	NA	NA	NA	NA	NA	NA	IGV	1332
+coadread_dfci_2016_331889	Colorectal (DFCI 2016)	V1514M		Missense	NA		U	U	Low	dfci.harvard.edu	chr19	42799056	42799056	G	A	NA	NA	NA	NA	NA	NA	IGV	465
+coadread_dfci_2016_3498	Colorectal (DFCI 2016)	T1541Lfs*79		FS del	NA		U	U		dfci.harvard.edu	chr19	42799131	42799131	C	-	NA	NA	NA	NA	NA	NA	IGV	731
+coadread_dfci_2016_3440	Colorectal (DFCI 2016)	R1464Q		Missense	NA		U	U	Low	dfci.harvard.edu	chr19	42798819	42798819	G	A	NA	NA	NA	NA	NA	NA	IGV	134
+coadread_dfci_2016_132	Colorectal (DFCI 2016)	E236K		Missense	NA		U	U	Low	dfci.harvard.edu	chr19	42791820	42791820	G	A	NA	NA	NA	NA	NA	NA	IGV	335
+coadread_dfci_2016_1745	Colorectal (DFCI 2016)	E28Wfs*14		FS ins	NA		U	U		dfci.harvard.edu	chr19	42790932	42790933	-	TG	NA	NA	NA	NA	NA	NA	IGV	126
+coadread_dfci_2016_3646	Colorectal (DFCI 2016)	R1205Q		Missense	NA		U	U	Neutral	dfci.harvard.edu	chr19	42797252	42797252	G	A	NA	NA	NA	NA	NA	NA	IGV	1299
+coadread_dfci_2016_360138	Colorectal (DFCI 2016)	R213W		Missense	NA	3	U	U	Medium	dfci.harvard.edu	chr19	42791751	42791751	C	T	NA	NA	NA	NA	NA	NA	IGV	134
+coadread_dfci_2016_1225	Colorectal (DFCI 2016)	R572W		Missense	NA	1	U	U	Neutral	dfci.harvard.edu	chr19	42794634	42794634	C	T	NA	NA	NA	NA	NA	NA	IGV	680
+coadread_dfci_2016_546	Colorectal (DFCI 2016)	S1117Kfs*34		FS ins	NA		U	U		dfci.harvard.edu	chr19	42796882	42796883	-	C	NA	NA	NA	NA	NA	NA	IGV	1082
+coadread_dfci_2016_2564	Colorectal (DFCI 2016)	S1117Kfs*34		FS ins	NA		U	U		dfci.harvard.edu	chr19	42796882	42796883	-	C	NA	NA	NA	NA	NA	NA	IGV	822
+coadread_dfci_2016_2448	Colorectal (DFCI 2016)	P97S		Missense	NA		U	U	Neutral	dfci.harvard.edu	chr19	42791229	42791229	C	T	NA	NA	NA	NA	NA	NA	IGV	1910
+coadread_dfci_2016_207	Colorectal (DFCI 2016)	T1375Pfs*40		FS del	NA	1	U	U		dfci.harvard.edu	chr19	42798164	42798164	C	-	NA	NA	NA	NA	NA	NA	IGV	531
+coadread_dfci_2016_341	Colorectal (DFCI 2016)	M156I		Missense	NA		U	U	Neutral	dfci.harvard.edu	chr19	42791487	42791487	G	C	NA	NA	NA	NA	NA	NA	IGV	843
+coadread_dfci_2016_335135	Colorectal (DFCI 2016)	P1050S		Missense	NA		U	U	Neutral	dfci.harvard.edu	chr19	42796591	42796591	C	T	NA	NA	NA	NA	NA	NA	IGV	3732
+coadread_dfci_2016_1241	Colorectal (DFCI 2016)	R428H		Missense	NA	1	U	U	Low	dfci.harvard.edu	chr19	42793481	42793481	G	A	NA	NA	NA	NA	NA	NA	IGV	1535
+coadread_dfci_2016_1190	Colorectal (DFCI 2016)	L836F		Missense	NA		U	U	Neutral	dfci.harvard.edu	chr19	42795426	42795426	C	T	NA	NA	NA	NA	NA	NA	IGV	113
+coadread_dfci_2016_3658	Colorectal (DFCI 2016)	R30H		Missense	NA		U	U	Low	dfci.harvard.edu	chr19	42790944	42790944	G	A	NA	NA	NA	NA	NA	NA	IGV	1003
+coadread_dfci_2016_605	Colorectal (DFCI 2016)	S1382A		Missense	NA		U	U	Low	dfci.harvard.edu	chr19	42798190	42798190	T	G	NA	NA	NA	NA	NA	NA	IGV	474
+coadread_dfci_2016_134258	Colorectal (DFCI 2016)	P911Rfs*13		FS del	NA		U	U		dfci.harvard.edu	chr19	42795739	42795739	C	-	NA	NA	NA	NA	NA	NA	IGV	797
+coadread_dfci_2016_1762	Colorectal (DFCI 2016)	V32M		Missense	NA		U	U	Low	dfci.harvard.edu	chr19	42790949	42790949	G	A	NA	NA	NA	NA	NA	NA	IGV	846
+coadread_dfci_2016_1222	Colorectal (DFCI 2016)	P165L		Missense	NA		U	U	Neutral	dfci.harvard.edu	chr19	42791513	42791513	C	T	NA	NA	NA	NA	NA	NA	IGV	1292
+coadread_dfci_2016_292	Colorectal (DFCI 2016)	S1031L		Missense	NA		U	U	Neutral	dfci.harvard.edu	chr19	42796535	42796535	C	T	NA	NA	NA	NA	NA	NA	IGV	203
+coadread_dfci_2016_1231	Colorectal (DFCI 2016)	A652T		Missense	NA	1	U	U	Neutral	dfci.harvard.edu	chr19	42794874	42794874	G	A	NA	NA	NA	NA	NA	NA	IGV	1282
+coadread_dfci_2016_1193	Colorectal (DFCI 2016)	S385L		Missense	NA		U	U	Neutral	dfci.harvard.edu	chr19	42793352	42793352	C	T	NA	NA	NA	NA	NA	NA	IGV	204
+coadread_dfci_2016_1160	Colorectal (DFCI 2016)	R353Q		Missense	NA		U	U	Low	dfci.harvard.edu	chr19	42793166	42793166	G	A	NA	NA	NA	NA	NA	NA	IGV	198
+587342	Colorectal (Genentech)	T303M		Missense	NA	1	U	V	Neutral	Genentech	chr19	42792104	42792104	C	T	NA	NA	NA	NA	NA	NA	IGV	3241
+587350	Colorectal (Genentech)	A669T		Missense	NA	2	U	V	Neutral	Genentech	chr19	42794925	42794925	G	A	NA	NA	NA	NA	NA	NA	IGV	859
+587336	Colorectal (Genentech)	R353*		Nonsense	NA	1	U	V		Genentech	chr19	42793165	42793165	C	T	NA	NA	NA	NA	NA	NA	IGV	761
+587342	Colorectal (Genentech)	P1336L		Missense	NA	1	U	V	Low	Genentech	chr19	42797955	42797955	C	T	NA	NA	NA	NA	NA	NA	IGV	3241
+587398	Colorectal (Genentech)	S68T		Missense	NA	1	U	V	Neutral	Genentech	chr19	42791057	42791057	T	A	NA	NA	NA	NA	NA	NA	IGV	70
+587228	Colorectal (Genentech)	R351W		Missense	NA	1	U	V	Low	Genentech	chr19	42793159	42793159	C	T	NA	NA	NA	NA	NA	NA	IGV	1294
+TCGA-AA-3842-01	Colorectal (TCGA pub)	S1117Kfs*34		FS ins	Gain		S	U		Broad	chr19	42796882	42796883	-	C	NA	NA	NA	NA	NA	NA	IGV	56
+TCGA-AA-3715-01	Colorectal (TCGA pub)	R1313W		Missense	Diploid	1	S	V	Neutral	Broad	chr19	42797885	42797885	C	T	NA	NA	NA	NA	NA	NA	IGV	1488
+TCGA-AA-A01R-01	Colorectal (TCGA pub)	V318I		Missense	Diploid	2	S	V	Neutral	Broad	chr19	42793060	42793060	G	A	NA	NA	NA	NA	NA	NA	IGV	1228
+TCGA-AA-3877-01	Colorectal (TCGA pub)	A1101V		Missense	Diploid	1	S	V	Neutral	Broad	chr19	42796844	42796844	C	T	NA	NA	NA	NA	NA	NA	IGV	784
+TCGA-AA-3966-01	Colorectal (TCGA pub)	P518Rfs*5		FS del	Diploid		S	V		Broad	chr19	42794469	42794469	C	-	NA	NA	NA	NA	NA	NA	IGV	899
+TCGA-AA-3966-01	Colorectal (TCGA pub)	G287W		Missense	Diploid	1	S	V	Low	Broad	chr19	42792055	42792055	G	T	NA	NA	NA	NA	NA	NA	IGV	899
+TCGA-AA-3966-01	Colorectal (TCGA)	P518Rfs*5		FS del	ShallowDel		S	V		Broad	chr19	42794469	42794469	NA	NA	NA	NA	NA	NA	NA	NA	IGV	892
+TCGA-AA-A01R-01	Colorectal (TCGA)	V318I		Missense	Diploid	2	S	V	Neutral	Broad	chr19	42793060	42793060	NA	NA	NA	NA	NA	NA	NA	NA	IGV	1226
+TCGA-AA-3877-01	Colorectal (TCGA)	A1101V		Missense	Diploid	1	S	V	Neutral	Broad	chr19	42796844	42796844	NA	NA	NA	NA	NA	NA	NA	NA	IGV	770
+TCGA-AA-3715-01	Colorectal (TCGA)	R1313W		Missense	Diploid	1	S	V	Neutral	Broad	chr19	42797885	42797885	NA	NA	NA	NA	NA	NA	NA	NA	IGV	1473
+TCGA-AA-3966-01	Colorectal (TCGA)	G287W		Missense	ShallowDel	1	S	V	Low	Broad	chr19	42792055	42792055	NA	NA	NA	NA	NA	NA	NA	NA	IGV	892
+TCGA-AA-3842-01	Colorectal (TCGA)	S1117Kfs*34		FS ins	Gain		S	U		Broad	chr19	42796882	42796883	NA	NA	NA	NA	NA	NA	NA	NA	IGV	56
+SS_L21	CTCL (Columbia 2015)	P1219Q		Missense	NA		U	U	Neutral	www.columbia.edu	chr19	42797294	42797294	C	A	NA	NA	NA	NA	NA	NA	IGV	164
+S09-31237-TP-NT	CSCC (DFCI 2015)	P802S		Missense	NA		S	U	Neutral	Broad	chr19	42795324	42795324	C	T	NA	NA	NA	NA	NA	NA	IGV	98
+S04-45633-TP-S07-16280-NT	CSCC (DFCI 2015)	G937E		Missense	NA		S	U	Neutral	Broad	chr19	42795821	42795821	G	A	NA	NA	NA	NA	NA	NA	IGV	112
+S04-45633-TP-S07-16280-NT	CSCC (DFCI 2015)	P621L		Missense	NA	2	S	U	Neutral	Broad	chr19	42794782	42794782	C	T	NA	NA	NA	NA	NA	NA	IGV	112
+S06-38853-TP-S09-31237-NT	CSCC (DFCI 2015)	P520S		Missense	NA		S	U	Neutral	Broad	chr19	42794478	42794478	C	T	NA	NA	NA	NA	NA	NA	IGV	188
+19M	DESM (Broad 2015)	H292R		Missense	NA		U	U	Neutral	www.broadinstitute.org	chr19	42792071	42792071	A	G	NA	NA	NA	NA	NA	NA	IGV	1197
+40M	DESM (Broad 2015)	R1286C		Missense	NA		U	U	Neutral	www.broadinstitute.org	chr19	42797804	42797804	C	T	NA	NA	NA	NA	NA	NA	IGV	1576
+Au3	DESM (Broad 2015)	P987S		Missense	NA		U	U	Neutral	www.broadinstitute.org	chr19	42796310	42796310	C	T	NA	NA	NA	NA	NA	NA	IGV	936
+53M	DESM (Broad 2015)	P1234L		Missense	NA		U	U	Neutral	www.broadinstitute.org	chr19	42797339	42797339	C	T	NA	NA	NA	NA	NA	NA	IGV	899
+71M	DESM (Broad 2015)	F1192Yfs*2		FS ins	NA		U	U		NA	chr19	42797212	42797213	-	A	NA	NA	NA	NA	NA	NA	IGV	301
+71M	DESM (Broad 2015)	S1191Ffs*2		FS del	NA		U	U		NA	chr19	42797210	42797211	CC	-	NA	NA	NA	NA	NA	NA	IGV	301
+Au4	DESM (Broad 2015)	T229I		Missense	NA		U	U	Low	www.broadinstitute.org	chr19	42791800	42791800	C	T	NA	NA	NA	NA	NA	NA	IGV	1590
+DLBCL-Ls3245	DLBCL (Broad 2012)	A895T		Missense	NA		U	U	Neutral	Broad	chr19	42795603	42795603	G	A	NA	NA	NA	NA	NA	NA	IGV	93
+DLBCL-Ls3866	DLBCL (Broad 2012)	V53M		Missense	NA		U	U	Neutral	Broad	chr19	42791012	42791012	G	A	NA	NA	NA	NA	NA	NA	IGV	184
+ESO-859	Esophagus (Broad)	P1248Hfs*54		FS del	NA		S	U		Broad	chr19	42797376	42797376	C	-	0.60	NA	6	9	NA	NA	IGV	1681
+ESO-0103	Esophagus (Broad)	R274*		Nonsense	NA	2	S	U		Broad	chr19	42792016	42792016	C	T	0.82	NA	2	9	NA	NA	IGV	96
+TCGA-VR-A8Q7-01	Esophagus (TCGA)	A81Cfs*4		FS ins	ShallowDel		S	U		WashU	chr19	42791176	42791177	NA	TGTT	NA	NA	NA	NA	NA	NA	IGV	146
+TCGA-R6-A8W5-01	Esophagus (TCGA)	P678Lfs*50		FS del	Gain		S	U		WashU	chr19	42794952	42794952	NA	NA	NA	NA	NA	NA	NA	NA	IGV	154
+TCGA-L5-A8NF-01	Esophagus (TCGA)	A984V		Missense	ShallowDel		S	U	Low	WashU	chr19	42796302	42796302	NA	NA	NA	NA	NA	NA	NA	NA	IGV	216
+TCGA-LN-A4A8-01	Esophagus (TCGA)	S349L		Missense	Diploid		S	U	Neutral	WashU	chr19	42793154	42793154	NA	NA	NA	NA	NA	NA	NA	NA	IGV	141
+TCGA-L5-A8NM-01	Esophagus (TCGA)	P1248Hfs*54		FS del	Diploid		S	U		WashU	chr19	42797376	42797376	NA	NA	NA	NA	NA	NA	NA	NA	IGV	1701
+TCGA-JY-A93E-01	Esophagus (TCGA)	A307Gfs*9		FS ins	Diploid		S	U		WashU	chr19	42792111	42792112	NA	GCTG	NA	NA	NA	NA	NA	NA	IGV	228
+TCGA-L5-A891-01	Esophagus (TCGA)	F1342Lfs*73		FS del	ShallowDel		S	U		WashU	chr19	42797972	42797972	NA	NA	NA	NA	NA	NA	NA	NA	IGV	247
+ESCC-F14	ESCC (UCLA 2014)	I209F		Missense	NA	1	U	U	Low	ucla.edu	chr19	42791739	42791739	A	T	NA	NA	NA	NA	NA	NA	IGV	21
+IC280	Ewing Sarcoma (Institut Curie)	E485D		Missense	NA		U	U	Neutral	Institut Curie	chr19	42794094	42794094	G	T	0.23	NA	20	6	16	0	IGV	35
+PGM48	Stomach (TMUCIH 2015)	R1199W		Missense	NA		U	U	Neutral	NA	chr19	42797233	42797233	C	T	NA	NA	NA	NA	NA	NA	IGV	461
+TCGA-27-2521-01	GBM (TCGA 2013)	Q958Sfs*9		FS del	ShallowDel		U	U		Broad	chr19	42795881	42795881	C	-	NA	NA	NA	NA	NA	NA	IGV	45
+TCGA-27-2521-01	GBM (TCGA)	Q958Sfs*9		FS del	ShallowDel		S	U		Broad	chr19	42795881	42795881	NA	NA	NA	NA	NA	NA	NA	NA	IGV	64
+TCGA-CR-7374-01	Head & neck (TCGA pub)	P830H		Missense	ShallowDel		U	U	Low	Broad	chr19	42795409	42795409	C	A	0.44	NA	18	14	NA	NA	IGV	326
+TCGA-CR-6484-01	Head & neck (TCGA pub)	E1224Q		Missense	Diploid		U	U	Neutral	Broad	chr19	42797308	42797308	G	C	0.17	NA	15	3	NA	NA	IGV	240
+TCGA-CV-7099-01	Head & neck (TCGA pub)	P611L		Missense	Diploid		U	U	Neutral	Broad	chr19	42794752	42794752	C	T	0.07	NA	103	8	NA	NA	IGV	254
+TCGA-CQ-5326-01	Head & neck (TCGA pub)	E1532*		Nonsense	ShallowDel		U	U		Broad	chr19	42799110	42799110	G	T	0.16	NA	37	7	NA	NA	IGV	183
+TCGA-D6-A6EM-01	Head & neck (TCGA)	Y386*		Nonsense	ShallowDel		S	U		Broad	chr19	42793356	42793356	NA	NA	0.18	NA	125	27	NA	NA	IGV	95
+TCGA-T2-A6WX-01	Head & neck (TCGA)	E482K		Missense	Diploid		S	U	Neutral	Broad	chr19	42794083	42794083	NA	NA	NA	NA	13	NA	NA	NA	IGV	179
+TCGA-CQ-5326-01	Head & neck (TCGA)	E1532*		Nonsense	ShallowDel		S	U		Broad	chr19	42799110	42799110	NA	NA	NA	NA	37	NA	NA	NA	IGV	186
+TCGA-BB-A5HU-01	Head & neck (TCGA)	E145Q		Missense	Diploid		S	U	Low	Broad	chr19	42791373	42791373	NA	NA	NA	NA	36	NA	NA	NA	IGV	160
+TCGA-CR-6484-01	Head & neck (TCGA)	E1224Q		Missense	Diploid		S	U	Neutral	Broad	chr19	42797308	42797308	NA	NA	NA	NA	15	NA	NA	NA	IGV	245
+TCGA-KU-A6H7-01	Head & neck (TCGA)	S543L		Missense	Diploid		S	U	Neutral	Broad	chr19	42794548	42794548	NA	NA	0.26	NA	87	30	NA	NA	IGV	151
+TCGA-T2-A6WX-01	Head & neck (TCGA)	M434I		Missense	Diploid		S	U	Neutral	Broad	chr19	42793500	42793500	NA	NA	0.26	NA	35	12	NA	NA	IGV	179
+TCGA-F7-A624-01	Head & neck (TCGA)	A652Pfs*76		FS del	Diploid		S	U		Broad	chr19	42794869	42794869	NA	NA	0.26	NA	37	13	NA	NA	IGV	3173
+TCGA-CV-7099-01	Head & neck (TCGA)	P611L		Missense	Diploid		S	U	Neutral	Broad	chr19	42794752	42794752	NA	NA	NA	NA	103	NA	NA	NA	IGV	257
+TCGA-CR-7374-01	Head & neck (TCGA)	P830H		Missense	ShallowDel		S	U	Low	Broad	chr19	42795409	42795409	NA	NA	0.44	NA	18	14	NA	NA	IGV	331
+TCGA-P3-A6T0-01	Head & neck (TCGA)	R169C		Missense	Diploid		S	U	Low	Broad	chr19	42791524	42791524	NA	NA	0.30	NA	83	35	NA	NA	IGV	89
+TCGA-KN-8424-01	chRCC (TCGA)	D198G		Missense	Diploid		S	U	Neutral	ucsc.edu	chr19	42791707	42791707	NA	NA	NA	NA	NA	NA	NA	NA	IGV	68
+TCGA-B8-4622-01	ccRCC (TCGA pub)	G939Pfs*211		FS del	Diploid		S	U		Baylor	chr19	42795826	42795827	GG	-	NA	NA	NA	NA	NA	NA	IGV	105
+TCGA-BP-4167-01	ccRCC (TCGA pub)	E446V		Missense	Diploid	1	S	U	Neutral	broad.mit.edu;hgsc.bcm.edu;ucsc.edu	chr19	42793535	42793535	A	T	NA	NA	NA	NA	NA	NA	IGV	54
+TCGA-B0-4707-01	ccRCC (TCGA pub)	I160N		Missense	Gain	1	S	U	Neutral	hgsc.bcm.edu;ucsc.edu	chr19	42791498	42791498	T	A	NA	NA	NA	NA	NA	NA	IGV	84
+TCGA-CZ-4856-01	ccRCC (TCGA pub)	K1181N		Missense	Diploid	1	S	U	Neutral	broad.mit.edu;hgsc.bcm.edu;ucsc.edu	chr19	42797181	42797181	G	C	NA	NA	NA	NA	NA	NA	IGV	49
+TCGA-B8-4622-01	ccRCC (TCGA)	G939Pfs*211		FS del	Diploid		S	U		Baylor	chr19	42795826	42795827	GG	NA	NA	NA	NA	NA	NA	NA	IGV	32
+TCGA-CZ-4856-01	ccRCC (TCGA)	K1181N		Missense	Diploid	1	S	U	Neutral	broad.mit.edu;hgsc.bcm.edu;ucsc.edu	chr19	42797181	42797181	NA	NA	NA	NA	NA	NA	NA	NA	IGV	49
+TCGA-BP-4167-01	ccRCC (TCGA)	E446V		Missense	Diploid	1	S	U	Neutral	broad.mit.edu;hgsc.bcm.edu;ucsc.edu	chr19	42793535	42793535	NA	NA	NA	NA	NA	NA	NA	NA	IGV	54
+TCGA-G7-A4TM-01	pRCC (TCGA)	P947S		Missense	Diploid	1	S	U	Low	Baylor	chr19	42795850	42795850	NA	NA	0.36	NA	56	32	69	0	IGV	25
+TCGA-A4-7734-01	pRCC (TCGA)	A845T		Missense	Diploid	1	S	U	Neutral	Baylor	chr19	42795453	42795453	NA	NA	0.42	NA	26	19	64	0	IGV	39
+H060509	Liver (AMC)	C336R		Missense	Diploid		S	U	Neutral	LGGM	chr19	42793114	42793114	T	C	0.45	NA	11	9	NA	NA	IGV	61
+H110702	Liver (AMC)	G1158V		Missense	Diploid		S	U	Neutral	LGGM	chr19	42797111	42797111	G	T	0.09	NA	29	3	NA	NA	IGV	46
+H093428	Liver (AMC)	P983S		Missense	Diploid		S	U	Neutral	LGGM	chr19	42796298	42796298	C	T	0.50	NA	25	25	NA	NA	IGV	64
+TCGA-2Y-A9GZ-01	Liver (TCGA)	P1202L		Missense	ShallowDel		S	U	Neutral	Baylor	chr19	42797243	42797243	NA	NA	0.33	NA	72	35	139	0	IGV	78
+TCGA-UB-A7MB-01	Liver (TCGA)	E367Q		Missense	Diploid		S	U	Low	Baylor	chr19	42793207	42793207	NA	NA	0.58	NA	13	18	34	0	IGV	1096
+TCGA-CC-A7IH-01	Liver (TCGA)	S730W		Missense	Diploid		S	U	Neutral	Baylor	chr19	42795109	42795109	NA	NA	0.44	NA	58	46	109	0	IGV	508
+TCGA-G3-A3CJ-01	Liver (TCGA)	P518Rfs*5		FS del	Diploid		S	U		Baylor	chr19	42794469	42794469	NA	NA	0.06	NA	208	14	270	0	IGV	1287
+P15_Rec	Glioma (UCSF)	K1517del		IF del	NA	3	S	U		UCSF	chr19	42799063	42799065	AGA	-	NA	NA	NA	16	NA	0	IGV	24
+LUAD-E00897	Lung adeno (Broad)	K732Q		Missense	Diploid	1	U	U	Neutral	Broad	chr19	42795114	42795114	A	C	NA	NA	NA	NA	NA	NA	IGV	485
+LUAD_E00565	Lung adeno (Broad)	R1384Q		Missense	Diploid	1	U	U	Low	Broad	chr19	42798197	42798197	G	A	NA	NA	NA	NA	NA	NA	IGV	653
+LUAD-B00416	Lung adeno (Broad)	F598L		Missense	Diploid	1	U	U	Neutral	Broad	chr19	42794714	42794714	C	G	NA	NA	NA	NA	NA	NA	IGV	779
+LUAD-NYU408	Lung adeno (Broad)	P158L		Missense	Diploid	1	U	U	Low	Broad	chr19	42791492	42791492	C	T	NA	NA	NA	NA	NA	NA	IGV	602
+LUAD-5V8LT	Lung adeno (Broad)	Y528C		Missense	Diploid	1	U	U	Neutral	Broad	chr19	42794503	42794503	A	G	NA	NA	NA	NA	NA	NA	IGV	1730
+LUAD-CHTN-3090415	Lung adeno (Broad)	A578V		Missense	Diploid	2	U	U	Neutral	Broad	chr19	42794653	42794653	C	T	NA	NA	NA	NA	NA	NA	IGV	216
+ZA6965	Lung adeno (MSKCC)	A206V		Missense	NA		U	U	High	NA	chr19	42791731	42791731	C	T	0.12	NA	92	13	152	0	IGV	220
+JB112852	Lung adeno (MSKCC)	V672D		Missense	NA		U	U	Low	NA	chr19	42794935	42794935	T	A	0.17	NA	10	2	34	0	IGV	182
+TCGA-75-6214-01	Lung adeno (TCGA pub)	E1405*		Nonsense	ShallowDel	1	U	U		Broad	chr19	42798342	42798342	G	T	0.62	NA	43	71	NA	NA	IGV	646
+TCGA-67-3771-01	Lung adeno (TCGA pub)	S63I		Missense	Diploid	1	U	U	Neutral	Broad	chr19	42791043	42791043	G	T	0.27	NA	41	15	NA	NA	IGV	945
+TCGA-69-7980-01	Lung adeno (TCGA pub)	E236*		Nonsense	Gain	1	U	U		Broad	chr19	42791820	42791820	G	T	0.57	NA	40	52	NA	NA	IGV	704
+TCGA-67-3771-01	Lung adeno (TCGA)	S63I		Missense	Diploid	1	S	U	Neutral	Broad	chr19	42791043	42791043	NA	NA	0.27	NA	41	15	NA	NA	IGV	945
+TCGA-75-6214-01	Lung adeno (TCGA)	E1405*		Nonsense	ShallowDel	1	S	U		Broad	chr19	42798342	42798342	NA	NA	0.62	NA	43	71	NA	NA	IGV	646
+TCGA-69-7980-01	Lung adeno (TCGA)	E236*		Nonsense	Gain	1	S	U		Broad	chr19	42791820	42791820	NA	NA	0.57	NA	40	52	NA	NA	IGV	703
+TCGA-85-6561-01	Lung squ (TCGA pub)	P929A		Missense	Diploid	1	U	U	Neutral	Broad	chr19	42795796	42795796	C	G	0.08	NA	55	5	NA	NA	IGV	621
+TCGA-22-1002-01	Lung squ (TCGA pub)	A900P		Missense	Diploid	1	U	U	Neutral	Broad	chr19	42795618	42795618	G	C	0.09	NA	167	17	NA	NA	IGV	203
+TCGA-39-5031-01	Lung squ (TCGA pub)	R492W		Missense	Gain	1	U	U	Neutral	Broad	chr19	42794394	42794394	C	T	0.05	NA	213	12	NA	NA	IGV	551
+TCGA-46-3765-01	Lung squ (TCGA pub)	G580A		Missense	Diploid	1	U	U	Neutral	Broad	chr19	42794659	42794659	G	C	0.33	NA	31	15	NA	NA	IGV	784
+TCGA-70-6722-01	Lung squ (TCGA pub)	G516W		Missense	Diploid		U	U	Neutral	Broad	chr19	42794466	42794466	G	T	0.07	NA	107	8	NA	NA	IGV	259
+TCGA-22-1002-01	Lung squ (TCGA)	A900P		Missense	Diploid	1	S	U	Neutral	Broad	chr19	42795618	42795618	NA	NA	0.09	NA	167	17	NA	NA	IGV	205
+TCGA-39-5031-01	Lung squ (TCGA)	R492W		Missense	Gain	1	S	U	Neutral	Broad	chr19	42794394	42794394	NA	NA	0.05	NA	213	12	NA	NA	IGV	552
+TCGA-46-3765-01	Lung squ (TCGA)	G580A		Missense	Diploid	1	S	U	Neutral	Broad	chr19	42794659	42794659	NA	NA	0.33	NA	31	15	NA	NA	IGV	290
+TCGA-85-6561-01	Lung squ (TCGA)	P929A		Missense	ShallowDel	1	S	U	Neutral	Broad	chr19	42795796	42795796	NA	NA	NA	NA	55	NA	NA	NA	IGV	723
+TCGA-G8-6324-01	DLBC (TCGA)	K637del		IF del	Diploid		S	U		Baylor	chr19	42794829	42794831	AAG	NA	0.31	NA	74	33	87	0	IGV	2452
+ME030	Melanoma (Broad/DFCI)	P621L		Missense	NA	2	U	U	Neutral	Broad	chr19	42794782	42794782	C	T	NA	NA	NA	NA	NA	NA	IGV	273
+TCGA-DU-A6S8-01	LGG-GBM (TCGA 2016)	G235D		Missense	ShallowDel	2	U	U	High	mdanderson.org/ucsc.edu/broad.mit.edu	chr19	42791818	42791818	G	A	0.67	NA	13	26	70	0	IGV	45
+TCGA-DU-6400-01	LGG-GBM (TCGA 2016)	Y395Mfs*40		FS del	ShallowDel		U	U		mdanderson.org/broad.mit.edu	chr19	42793381	42793381	T	-	0.56	NA	25	32	86	0	IGV	37
+TCGA-DB-5278-01	LGG-GBM (TCGA 2016)	F210C		Missense	ShallowDel	1	U	U	High	mdanderson.org/ucsc.edu/broad.mit.edu	chr19	42791743	42791743	T	G	0.53	NA	35	39	125	0	IGV	7
+TCGA-E1-A7YO-01	LGG-GBM (TCGA 2016)	N636Kfs*54		FS ins	ShallowDel		U	U		mdanderson.org/broad.mit.edu	chr19	42794819	42794820	-	C	0.21	NA	31	8	71	0	IGV	23
+TCGA-HT-A619-01	LGG-GBM (TCGA 2016)	K899Qfs*32		FS ins	ShallowDel		U	U		mdanderson.org/broad.mit.edu	chr19	42795608	42795609	-	C	0.80	NA	19	74	187	0	IGV	42
+TCGA-HT-7471-01	LGG-GBM (TCGA 2016)	V498*		FS del	ShallowDel		U	U		mdanderson.org/broad.mit.edu	chr19	42794411	42794411	T	-	0.77	NA	22	72	139	0	IGV	12
+TCGA-S9-A7QZ-01	LGG-GBM (TCGA 2016)	V1007Afs*143		FS del	ShallowDel		U	U		mdanderson.org/broad.mit.edu	chr19	42796461	42796462	TG	-	0.43	NA	45	34	106	0	IGV	28
+TCGA-FG-5964-01	LGG-GBM (TCGA 2016)	V1345Gfs*16		FS del	ShallowDel	1	U	U		mdanderson.org/broad.mit.edu	chr19	42797980	42797981	TG	-	0.47	NA	32	28	131	0	IGV	26
+TCGA-TQ-A7RI-01	LGG-GBM (TCGA 2016)	F35Pfs*15		FS del	ShallowDel		U	U		mdanderson.org/broad.mit.edu	chr19	42790954	42790955	TG	-	0.26	NA	52	18	71	0	IGV	17
+TCGA-VM-A8CB-01	LGG-GBM (TCGA 2016)	K232E		Missense	ShallowDel		U	U	Medium	mdanderson.org/ucsc.edu/broad.mit.edu	chr19	42791808	42791808	A	G	0.79	NA	10	38	72	0	IGV	23
+TCGA-DH-5141-01	LGG-GBM (TCGA 2016)	S1221*		FS del	ShallowDel		U	U		mdanderson.org/broad.mit.edu	chr19	42797299	42797300	TC	-	0.53	NA	7	8	20	0	IGV	16
+TCGA-E1-5319-01	LGG-GBM (TCGA 2016)	V1122Gfs*28		FS del	ShallowDel		U	U		mdanderson.org/broad.mit.edu	chr19	42796905	42796906	TG	-	0.27	NA	68	25	107	0	IGV	26
+TCGA-R8-A73M-01	LGG-GBM (TCGA 2016)	L241P		Missense	ShallowDel		U	U	High	mdanderson.org/ucsc.edu/broad.mit.edu	chr19	42791836	42791836	T	C	0.70	NA	7	16	67	0	IGV	22
+TCGA-QH-A65Z-01	LGG-GBM (TCGA 2016)	V1278Pfs*65		FS del	ShallowDel		U	U		mdanderson.org/broad.mit.edu	chr19	42797776	42797777	GC	-	0.63	NA	6	10	41	0	IGV	21
+TCGA-DB-A75K-01	LGG-GBM (TCGA 2016)	I155Hfs*5		FS ins	ShallowDel		U	U		mdanderson.org/broad.mit.edu	chr19	42791479	42791480	-	C	0.53	0.02	18	20	62	1	IGV	29
+TCGA-QH-A6CZ-01	LGG-GBM (TCGA 2016)	N227I		Missense	ShallowDel		U	U	Medium	mdanderson.org/ucsc.edu/broad.mit.edu	chr19	42791794	42791794	A	T	0.79	NA	6	22	75	0	IGV	18
+TCGA-DU-7294-01	LGG-GBM (TCGA 2016)	L234Q		Missense	ShallowDel	1	U	U	High	mdanderson.org/ucsc.edu/broad.mit.edu	chr19	42791815	42791815	T	A	0.63	NA	13	22	96	0	IGV	38
+TCGA-P5-A5F0-01	LGG-GBM (TCGA 2016)	W238*		Nonsense	ShallowDel		U	U		mdanderson.org/ucsc.edu/broad.mit.edu	chr19	42791828	42791828	G	A	0.41	NA	54	37	155	0	IGV	19
+TCGA-DB-A64V-01	LGG-GBM (TCGA 2016)	V230I		Missense	ShallowDel	2	U	U	Neutral	ucsc.edu/broad.mit.edu	chr19	42791802	42791802	G	A	0.14	NA	69	11	121	0	IGV	18
+TCGA-DH-A7UR-01	LGG-GBM (TCGA 2016)	R1214*		Nonsense	ShallowDel	3	U	U		mdanderson.org/broad.mit.edu	chr19	42797278	42797278	C	T	0.44	NA	10	8	17	0	IGV	37
+TCGA-FG-7641-01	LGG-GBM (TCGA 2016)	R228W		Missense	ShallowDel	4	U	U	Medium	ucsc.edu/broad.mit.edu	chr19	42791796	42791796	C	T	0.14	NA	87	14	148	0	IGV	16
+TCGA-TM-A7C5-01	LGG-GBM (TCGA 2016)	L252P		Missense	ShallowDel		U	U	Medium	mdanderson.org/ucsc.edu/broad.mit.edu	chr19	42791869	42791869	T	C	0.47	NA	18	16	59	0	IGV	18
+TCGA-IK-8125-01	LGG-GBM (TCGA 2016)	K1268Nfs*34		FS del	ShallowDel		U	U		mdanderson.org/broad.mit.edu	chr19	42797750	42797750	A	-	0.55	NA	19	23	73	0	IGV	34
+TCGA-DB-A64W-01	LGG-GBM (TCGA 2016)	G235C		Missense	ShallowDel	2	U	U	High	mdanderson.org/ucsc.edu/broad.mit.edu	chr19	42791817	42791817	G	T	0.63	NA	23	40	140	0	IGV	36
+TCGA-S9-A7IY-01	LGG-GBM (TCGA 2016)	Q247*		Nonsense	ShallowDel		U	U		ucsc.edu/broad.mit.edu	chr19	42791853	42791853	C	T	0.17	NA	25	5	67	0	IGV	20
+TCGA-HT-7694-01	LGG-GBM (TCGA 2016)	L418Afs*15		FS ins	ShallowDel		U	U		mdanderson.org/broad.mit.edu	chr19	42793443	42793444	-	C	0.25	NA	40	13	47	0	IGV	19
+TCGA-HT-8105-01	LGG-GBM (TCGA 2016)	L664Vfs*25		FS del	ShallowDel		U	U		mdanderson.org/broad.mit.edu	chr19	42794910	42794911	CT	-	0.59	NA	11	16	32	0	IGV	38
+TCGA-S9-A6TW-01	LGG-GBM (TCGA 2016)	A151Gfs*9		FS ins	ShallowDel		U	U		mdanderson.org/broad.mit.edu	chr19	42791390	42791391	-	G	0.61	NA	7	11	19	0	IGV	23
+TCGA-DU-A7T6-01	LGG-GBM (TCGA 2016)	V606Gfs*83		FS del	ShallowDel		U	U		mdanderson.org/broad.mit.edu	chr19	42794734	42794735	GT	-	0.54	NA	54	64	256	0	IGV	83
+TCGA-HT-7616-01	LGG-GBM (TCGA 2016)	Q824*		Nonsense	ShallowDel	1	U	U		ucsc.edu/broad.mit.edu	chr19	42795390	42795390	C	T	0.14	NA	18	3	28	0	IGV	31
+TCGA-DU-7302-01	LGG-GBM (TCGA 2016)	E1352Sfs*9		FS del	ShallowDel		U	U		mdanderson.org/broad.mit.edu	chr19	42798099	42798100	AG	-	0.47	NA	68	61	263	0	IGV	20
+TCGA-R8-A6ML-01	LGG-GBM (TCGA 2016)	G913Wfs*18		FS ins	ShallowDel		U	U		mdanderson.org/broad.mit.edu	chr19	42795743	42795744	-	G	0.64	NA	70	122	212	0	IGV	18
+TCGA-HT-7875-01	LGG-GBM (TCGA 2016)	Q994*		Nonsense	ShallowDel	4	U	U		mdanderson.org/ucsc.edu/broad.mit.edu	chr19	42796331	42796331	C	T	0.40	0.01	38	25	99	1	IGV	21
+TCGA-P5-A77W-01	LGG-GBM (TCGA 2016)	V760Hfs*2		FS del	ShallowDel		U	U		mdanderson.org/broad.mit.edu	chr19	42795197	42795198	TG	-	0.47	NA	18	16	41	0	IGV	21
+TCGA-DU-8168-01	LGG-GBM (TCGA 2016)	V892Tfs*38		FS del	ShallowDel		U	U		mdanderson.org/broad.mit.edu	chr19	42795593	42795594	TG	-	0.78	NA	13	47	189	0	IGV	42
+TCGA-FG-A710-01	LGG-GBM (TCGA 2016)	T229P		Missense	ShallowDel		U	U	Medium	mdanderson.org/ucsc.edu/broad.mit.edu	chr19	42791799	42791799	A	C	0.70	NA	21	49	209	0	IGV	15
+TCGA-TM-A84O-01	LGG-GBM (TCGA 2016)	A1360Cfs*2		FS ins	ShallowDel		U	U		mdanderson.org/broad.mit.edu	chr19	42798120	42798121	-	T	0.58	NA	22	31	114	0	IGV	25
+TCGA-RY-A83X-01	LGG-GBM (TCGA 2016)	G724Vfs*4		FS del	ShallowDel		U	U		mdanderson.org/broad.mit.edu	chr19	42795089	42795089	G	-	0.63	NA	10	17	25	0	IGV	11
+TCGA-P5-A77X-01	LGG-GBM (TCGA 2016)	K875Sfs*55		FS del	ShallowDel		U	U		mdanderson.org/broad.mit.edu	chr19	42795543	42795544	AA	-	0.56	NA	14	18	80	0	IGV	21
+TCGA-QH-A6X5-01	LGG-GBM (TCGA 2016)	H260D		Missense	ShallowDel		U	U	High	ucsc.edu/broad.mit.edu	chr19	42791974	42791974	C	G	0.31	NA	9	4	24	0	IGV	12
+TCGA-HT-7608-01	LGG-GBM (TCGA 2016)	K276Vfs*38		FS del	ShallowDel		U	U		mdanderson.org/broad.mit.edu	chr19	42792020	42792021	AG	-	0.50	NA	4	4	18	0	IGV	12
+TCGA-FG-A713-01	LGG-GBM (TCGA 2016)	F210L		Missense	ShallowDel	1	U	U	High	mdanderson.org/ucsc.edu/broad.mit.edu	chr19	42791744	42791744	C	A	0.20	NA	40	10	71	0	IGV	17
+TCGA-DU-6393-01	LGG-GBM (TCGA 2016)	Q992Afs*158		FS del	ShallowDel		U	U		mdanderson.org/broad.mit.edu	chr19	42796321	42796322	CT	-	0.69	NA	9	20	64	0	IGV	22
+TCGA-VM-A8CE-01	LGG-GBM (TCGA 2016)	R213P		Missense	ShallowDel	3	U	U	Medium	ucsc.edu/broad.mit.edu	chr19	42791752	42791752	G	C	0.13	NA	40	6	92	0	IGV	8
+TCGA-E1-5318-01	LGG-GBM (TCGA 2016)	V778Pfs*155		FS ins	ShallowDel		U	U		mdanderson.org/broad.mit.edu	chr19	42795241	42795242	NA	GCCCCCT	0.27	NA	27	10	96	0	IGV	23
+TCGA-QH-A6X4-01	LGG-GBM (TCGA 2016)	V838Gfs*86		FS del	ShallowDel		U	U		mdanderson.org/broad.mit.edu	chr19	42795433	42795433	T	-	0.62	NA	5	8	19	0	IGV	22
+TCGA-DU-7018-01	LGG-GBM (TCGA 2016)	S146*		FS del	ShallowDel		U	U		mdanderson.org/broad.mit.edu	chr19	42791372	42791373	AG	-	0.75	NA	6	18	32	0	IGV	23
+TCGA-HT-8012-01	LGG-GBM (TCGA 2016)	S370Rfs*6		FS del	ShallowDel	1	U	U		mdanderson.org/broad.mit.edu	chr19	42793215	42793218	CAGT	-	0.32	NA	55	26	121	0	IGV	11
+TCGA-DB-A64L-01	LGG-GBM (TCGA 2016)	S370Rfs*6		FS del	DeepDel	1	U	U		mdanderson.org/broad.mit.edu	chr19	42793215	42793218	CAGT	-	0.54	NA	57	67	148	0	IGV	44
+TCGA-DB-A4XA-01	LGG-GBM (TCGA 2016)	W238del		IF del	ShallowDel		U	U		mdanderson.org/broad.mit.edu	chr19	42791822	42791824	GTG	-	0.21	NA	45	12	114	0	IGV	7
+TCGA-CS-6668-01	LGG-GBM (TCGA 2016)	S721Lfs*42		FS ins	ShallowDel		U	U		mdanderson.org/broad.mit.edu	chr19	42795074	42795075	-	G	0.63	NA	6	10	64	0	IGV	17
+TCGA-S9-A6UB-01	LGG-GBM (TCGA 2016)	W269*		Nonsense	ShallowDel		U	U		mdanderson.org/ucsc.edu/broad.mit.edu	chr19	42792003	42792003	G	A	0.68	NA	7	15	60	0	IGV	20
+SC_9022	Prostate (SU2C)	S665Y		Missense	Gain		U	U	Neutral	NA	chr19	42794914	42794914	C	A	0.48	NA	184	173	NA	NA	IGV	134
+MM-0454	MM (Broad)	R139W		Missense	NA	2	U	U	Neutral	Broad	chr19	42791355	42791355	C	T	NA	NA	NA	NA	NA	NA	IGV	45
+HCT_15	NCI-60	R340W		Missense	Diploid	1	U	U	Neutral	discover.nci.nih.gov	chr19	42793126	42793126	C	T	NA	NA	NA	NA	NA	NA	IGV	5093
+HCT_15	NCI-60	R600C		Missense	Diploid	1	U	U	Neutral	discover.nci.nih.gov	chr19	42794718	42794718	C	T	NA	NA	NA	NA	NA	NA	IGV	5093
+CAKI_1	NCI-60	A578V		Missense	ShallowDel	2	U	U	Neutral	discover.nci.nih.gov	chr19	42794653	42794653	C	T	NA	NA	NA	NA	NA	NA	IGV	145
+K_562	NCI-60	A928T		Missense	Gain	1	U	U	Neutral	discover.nci.nih.gov	chr19	42795793	42795793	G	A	NA	NA	NA	NA	NA	NA	IGV	314
+N637T	NBL (AMC)	R274*		Nonsense	NA	2	U	U		AMC	chr19	42792016	42792016	C	T	NA	NA	NA	NA	NA	NA	IGV	7
+TCGA-13-0897-01	Ovarian (TCGA pub)	V1007Afs*28		FS del	Diploid	1	S	V		WashU	chr19	42796462	42796474	GTGCAGTCAGCGG	-	NA	NA	NA	NA	NA	NA	IGV	42
+TCGA-61-1998-01	Ovarian (TCGA pub)	S1389F		Missense	Diploid	1	S	U	Low	Broad	chr19	42798212	42798212	C	T	NA	NA	NA	NA	NA	NA	IGV	80
+TCGA-59-2351-01	Ovarian (TCGA pub)	Q427H		Missense	Gain	1	S	V	Neutral	Broad	chr19	42793479	42793479	G	C	NA	NA	NA	NA	NA	NA	IGV	70
+TCGA-04-1367-01	Ovarian (TCGA pub)	W37S		Missense	ShallowDel	2	S	V	Low	Broad	chr19	42790965	42790965	G	C	NA	NA	NA	NA	NA	NA	IGV	75
+TCGA-13-0897-01	Ovarian (TCGA)	V1007Afs*28		FS del	Diploid	1	S	V		WashU	chr19	42796462	42796474	GTGCAGTCAGCGG	NA	NA	NA	NA	NA	NA	NA	IGV	43
+TCGA-59-2351-01	Ovarian (TCGA)	Q427H		Missense	Gain	1	U	U	Neutral	Broad	chr19	42793479	42793479	NA	NA	NA	NA	NA	NA	NA	NA	IGV	70
+TCGA-61-1998-01	Ovarian (TCGA)	S1389F		Missense	Diploid	1	U	U	Low	Broad	chr19	42798212	42798212	NA	NA	NA	NA	NA	NA	NA	NA	IGV	106
+TCGA-04-1367-01	Ovarian (TCGA)	W37S		Missense	ShallowDel	2	U	U	Low	Broad	chr19	42790965	42790965	NA	NA	NA	NA	NA	NA	NA	NA	IGV	73
+TCGA-98-8021-01	NSCLC (TCGA 2016)	S1058*		Nonsense	ShallowDel		S	U		Broad	chr19	42796616	42796616	C	G	0.33	NA	10	5	24	0	IGV	951
+TCGA-77-6844-01	NSCLC (TCGA 2016)	S1077R		Missense	Diploid		S	U	Neutral	Broad	chr19	42796771	42796771	A	C	0.26	NA	43	15	90	0	IGV	166
+TCGA-39-5031-01	NSCLC (TCGA 2016)	R492W		Missense	Gain	1	S	U	Neutral	Broad	chr19	42794394	42794394	C	T	0.05	NA	213	12	160	0	IGV	567
+LUAD-CHTN-3090415-Tumor	NSCLC (TCGA 2016)	A578V		Missense	Diploid	2	S	U	Neutral	Broad	chr19	42794653	42794653	C	T	0.18	0.01	78	17	84	1	IGV	213
+TCGA-97-7547-01	NSCLC (TCGA 2016)	S1409L		Missense	Diploid	1	S	U	Low	Broad	chr19	42798355	42798355	C	T	0.06	NA	66	4	95	0	IGV	150
+TCGA-22-1002-01	NSCLC (TCGA 2016)	A900P		Missense	Diploid	1	S	U	Neutral	Broad	chr19	42795618	42795618	G	C	0.09	NA	167	17	179	0	IGV	212
+TCGA-70-6722-01	NSCLC (TCGA 2016)	G516W		Missense	Gain		S	U	Neutral	Broad	chr19	42794466	42794466	G	T	0.07	NA	107	8	105	0	IGV	265
+LUAD-B00416-Tumor	NSCLC (TCGA 2016)	F598L		Missense	ShallowDel	1	S	U	Neutral	Broad	chr19	42794714	42794714	C	G	0.07	NA	162	12	148	0	IGV	756
+TCGA-49-AARO-01	NSCLC (TCGA 2016)	L373I		Missense	ShallowDel		S	U	Neutral	Broad	chr19	42793225	42793225	C	A	0.28	NA	38	15	90	0	IGV	527
+TCGA-56-A5DR-01	NSCLC (TCGA 2016)	S1274L		Missense	Gain		S	U	Neutral	Broad	chr19	42797769	42797769	C	T	0.31	NA	25	11	36	0	IGV	904
+TCGA-69-7980-01	NSCLC (TCGA 2016)	E236*		Nonsense	Gain	1	S	U		Broad	chr19	42791820	42791820	G	T	0.57	NA	40	52	122	0	IGV	711
+TCGA-64-5779-01	NSCLC (TCGA 2016)	V1189L		Missense	Gain	1	S	U	Neutral	Broad	chr19	42797203	42797203	G	T	0.64	NA	5	9	30	0	IGV	314
+LUAD-5V8LT-Tumor	NSCLC (TCGA 2016)	Y528C		Missense	Gain	1	S	U	Neutral	Broad	chr19	42794503	42794503	A	G	0.12	NA	84	11	113	0	IGV	1483
+TCGA-44-2656-01	NSCLC (TCGA 2016)	I463V		Missense	ShallowDel	1	S	U	Low	Broad	chr19	42794026	42794026	A	G	0.28	NA	13	5	24	0	IGV	798
+TCGA-NC-A5HT-01	NSCLC (TCGA 2016)	F1052V		Missense	Diploid		S	U	Neutral	Broad	chr19	42796597	42796597	T	G	0.09	NA	53	5	36	0	IGV	289
+TCGA-85-7697-01	NSCLC (TCGA 2016)	H743L		Missense	ShallowDel		S	U	Neutral	Broad	chr19	42795148	42795148	A	T	0.16	NA	41	8	45	0	IGV	239
+TCGA-85-6561-01	NSCLC (TCGA 2016)	P929A		Missense	ShallowDel	1	S	U	Neutral	Broad	chr19	42795796	42795796	C	G	0.08	NA	55	5	199	0	IGV	221
+TCGA-77-6843-01	NSCLC (TCGA 2016)	G167Efs*38		FS del	Gain		S	U		Broad	chr19	42791518	42791518	G	-	0.05	NA	230	11	80	0	IGV	177
+TCGA-75-6214-01	NSCLC (TCGA 2016)	E1405*		Nonsense	ShallowDel	1	S	U		Broad	chr19	42798342	42798342	G	T	0.62	NA	43	71	78	0	IGV	635
+TCGA-86-8056-01	NSCLC (TCGA 2016)	R1412L		Missense	Diploid		S	U	Low	Broad	chr19	42798364	42798364	G	T	0.29	NA	77	32	124	0	IGV	268
+TCGA-56-A5DR-01	NSCLC (TCGA 2016)	Q992*		Nonsense	Gain		S	U		Broad	chr19	42796325	42796325	C	T	0.25	NA	70	23	92	0	IGV	904
+TCGA-49-AAR4-01	NSCLC (TCGA 2016)	P884S		Missense	Gain		S	U	Neutral	Broad	chr19	42795570	42795570	C	T	0.08	NA	49	4	62	0	IGV	605
+TCGA-46-3765-01	NSCLC (TCGA 2016)	G580A		Missense	Diploid	1	S	U	Neutral	Broad	chr19	42794659	42794659	G	C	0.33	NA	31	15	51	0	IGV	196
+TCGA-67-3771-01	NSCLC (TCGA 2016)	S63I		Missense	Diploid	1	S	U	Neutral	Broad	chr19	42791043	42791043	G	T	0.28	NA	38	15	81	0	IGV	914
+LUAD_E00565-Tumor	NSCLC (TCGA 2016)	R1384Q		Missense	Gain	1	S	U	Low	Broad	chr19	42798197	42798197	G	A	0.07	NA	127	9	94	0	IGV	664
+ICGC_0548	Pancreas (QCMG 2016)	R688Pfs*56		FS ins	NA		S	U		qcmg.uq.edu.au	chr19	42777991	42777992	-	C	NA	NA	NA	NA	NA	NA	IGV	981
+ICGC_0076	Pancreas (QCMG 2016)	V246Cfs*8		FS del	NA		S	U		qcmg.uq.edu.au	chr19	42776667	42776667	G	-	NA	NA	NA	NA	NA	NA	IGV	1096
+TCGA-IB-7651-01	Pancreas (TCGA)	S278N		Missense	Diploid		S	U	Low	Broad	chr19	42792029	42792029	NA	NA	NA	NA	84	NA	18	NA	IGV	14742
+TCGA-IB-7651-01	Pancreas (TCGA)	A1243T		Missense	Diploid		S	V	Neutral	Broad	chr19	42797365	42797365	NA	NA	NA	NA	58	NA	11	NA	IGV	14742
+TCGA-FB-A5VM-01	Pancreas (TCGA)	Y1497C		Missense	Diploid		S	V	Low	Broad	chr19	42799006	42799006	NA	NA	0.10	NA	487	55	140	NA	IGV	53
+TCGA-IB-7651-01	Pancreas (TCGA)	A1544T		Missense	Diploid		S	V	Neutral	Broad	chr19	42799146	42799146	NA	NA	0.23	NA	123	36	28	NA	IGV	14742
+TCGA-IB-A6UG-01	Pancreas (TCGA)	P844A		Missense	Gain		S	U	Neutral	Broad	chr19	42795450	42795450	NA	NA	NA	NA	243	NA	47	NA	IGV	91
+PDA_040	Pancreas (UTSW)	P742L		Missense	Gain	1	U	U	Low	UT Southwestern	chr19	42795145	42795145	C	T	0.20	NA	80	20	NA	NA	IGV	120
+PR-00-1165	Prostate (Broad/Cornell 2012)	V230I		Missense	Diploid	2	S	U	Neutral	Broad	chr19	42791802	42791802	G	A	NA	NA	NA	NA	NA	NA	IGV	710
+05-123E2_LN	Prostate (FHCRC, 2016)	A1546V		Missense	Diploid		U	U	Neutral	fhcrc	chr19	42799153	42799153	C	T	0.54	NA	6	7	NA	NA	IGV	1054
+05-123E2_LN	Prostate (FHCRC, 2016)	MUTATED		splice_region	Diploid		U	U		fhcrc	chr19	42797739	42797739	C	T	0.41	NA	51	36	NA	NA	IGV	1054
+05-123D1_PROSTATE	Prostate (FHCRC, 2016)	MUTATED		splice_region	Diploid		U	U		fhcrc	chr19	42797739	42797739	C	T	0.39	NA	35	22	NA	NA	IGV	626
+TCGA-KK-A59V-01	Prostate (TCGA)	P1116Qfs*45		FS del	Diploid		S	U		Broad	chr19	42796883	42796883	NA	NA	0.07	NA	124	10	NA	NA	IGV	858
+WA58	Prostate (MICH)	P1229A		Missense	Diploid	1	U	U		umich.edu	chr19	42797323	42797323	C	-	0.26	NA	20	7	16	0	IGV	34
+P-0003104-T01-IM5	hnc_mskcc_2016	E1255K		Missense	Diploid	1	S	U	Neutral	MSKCC	chr19	42797401	42797401	G	A	0.17	NA	373	75	201	0	IGV	57
+P-0003272-T01-IM5	hnc_mskcc_2016	I686Pfs*43		FS ins	Diploid		S	U		NA	chr19	42794972	42794973	-	CC	0.47	NA	270	243	257	0	IGV	1
+P-0001744-T01-IM3	hnc_mskcc_2016	P1292S		Missense	Diploid		S	U	Neutral	MSKCC	chr19	42797822	42797822	C	T	0.15	NA	154	28	416	0	IGV	75
+P-0003182-T01-IM5	hnc_mskcc_2016	R708K		Missense	Diploid		S	U	Neutral	MSKCC	chr19	42795043	42795043	G	A	0.37	NA	224	129	280	0	IGV	104
+TCGA-QC-A7B5-01	Sarcoma (TCGA)	P620S		Missense	ShallowDel		S	U	Neutral	WashU	chr19	42794778	42794778	NA	NA	0.38	NA	21	13	24	NA	IGV	1680
+ME009	Melanoma (Broad)	G719E		Missense	NA		U	U	Neutral	Broad	chr19	42795076	42795076	G	A	NA	NA	NA	NA	NA	NA	IGV	2337
+ME030	Melanoma (Broad)	P621L		Missense	NA	2	U	U	Neutral	Broad	chr19	42794782	42794782	C	T	NA	NA	NA	NA	NA	NA	IGV	253
+TCGA-EE-A181-06	Melanoma (TCGA)	S1104F		Missense	Diploid	3	S	U	Neutral	Broad	chr19	42796853	42796853	C	T	0.29	NA	37	15	NA	NA	IGV	2486
+TCGA-D3-A3CC-06	Melanoma (TCGA)	D369N		Missense	ShallowDel	1	S	U	Neutral	Broad	chr19	42793213	42793213	G	A	0.19	NA	58	14	NA	NA	IGV	33
+TCGA-EE-A2MR-06	Melanoma (TCGA)	P1372L		Missense	Diploid	1	S	U	Low	Broad	chr19	42798161	42798161	C	T	0.05	NA	97	5	NA	NA	IGV	3942
+TCGA-EE-A2MD-06	Melanoma (TCGA)	P621S		Missense	Diploid	2	S	U	Neutral	Broad	chr19	42794781	42794781	C	T	0.43	NA	43	32	NA	NA	IGV	1381
+TCGA-EE-A2M5-06	Melanoma (TCGA)	P1177L		Missense	Diploid		S	U	Neutral	Broad	chr19	42797168	42797168	C	T	0.26	NA	29	10	NA	NA	IGV	1646
+TCGA-DA-A3F8-06	Melanoma (TCGA)	E638K		Missense	Diploid	2	S	U	Neutral	Broad	chr19	42794832	42794832	G	A	0.17	NA	43	9	NA	NA	IGV	995
+TCGA-D9-A6EC-06	Melanoma (TCGA)	P844L		Missense	Gain		S	U	Neutral	Broad	chr19	42795451	42795451	C	T	0.54	NA	18	21	NA	NA	IGV	3888
+TCGA-GF-A6C9-06	Melanoma (TCGA)	S501F		Missense	Gain		S	U	Low	Broad	chr19	42794422	42794422	C	T	0.18	NA	108	23	NA	NA	IGV	2757
+TCGA-EE-A29D-06	Melanoma (TCGA)	R863C		Missense	ShallowDel	1	S	U	Neutral	Broad	chr19	42795507	42795507	C	T	0.69	NA	12	27	NA	NA	IGV	3060
+TCGA-EE-A3J7-06	Melanoma (TCGA)	P575L		Missense	Diploid		S	U	Neutral	Broad	chr19	42794644	42794644	C	T	0.41	NA	33	23	NA	NA	IGV	841
+TCGA-D9-A1JW-06	Melanoma (TCGA)	F495L		Missense	Diploid	1	S	U	Low	Broad	chr19	42794405	42794405	T	A	0.31	NA	79	35	NA	NA	IGV	748
+TCGA-EE-A2MQ-06	Melanoma (TCGA)	P1374L		Missense	Gain	1	S	U	Low	Broad	chr19	42798167	42798167	C	T	0.23	NA	84	25	NA	NA	IGV	224
+TCGA-EE-A29L-06	Melanoma (TCGA)	S502F		Missense	Gain	1	S	U	Low	Broad	chr19	42794425	42794425	C	T	0.25	NA	71	24	NA	NA	IGV	1636
+TCGA-D3-A51R-06	Melanoma (TCGA)	F590L		Missense	Diploid	1	S	U	Neutral	Broad	chr19	42794688	42794688	T	C	0.35	NA	67	36	NA	NA	IGV	590
+TCGA-EB-A44Q-06	Melanoma (TCGA)	P925R		Missense	Diploid	1	S	U	Low	Broad	chr19	42795785	42795785	C	G	0.35	NA	95	51	NA	NA	IGV	52
+TCGA-EE-A20C-06	Melanoma (TCGA)	R1384W		Missense	Diploid	1	S	U	Low	Broad	chr19	42798196	42798196	C	T	0.48	NA	35	32	NA	NA	IGV	1728
+YUMER	Melanoma (Yale)	P1115F		Missense	NA	1	S	U		yale.edu	chr19	42796885	42796886	CC	TT	NA	NA	NA	NA	NA	NA	IGV	920
+S02139	Small Cell Lung (UCOLOGNE)	Q640K		Missense	NA		U	U	Neutral	ucologne	chr19	42794838	42794838	C	A	NA	NA	NA	NA	NA	NA	IGV	491
+S00501	Small Cell Lung (UCOLOGNE)	A662D		Missense	NA		U	U	Neutral	ucologne	chr19	42794905	42794905	C	A	NA	NA	NA	NA	NA	NA	IGV	704
+pfg181T	Stomach (Pfizer UHK)	A1066V		Missense	NA		U	U	Low	pfizer_uhongkong	chr19	42796739	42796739	C	T	0.44	NA	101	79	113	0	IGV	1635
+pfg181T	Stomach (Pfizer UHK)	G821Efs*103		FS del	NA		U	U		pfizer_uhongkong	chr19	42795378	42795378	G	-	0.30	NA	125	54	162	0	IGV	1635
+pfg068T	Stomach (Pfizer UHK)	R696W		Missense	NA		U	U	Neutral	pfizer_uhongkong	chr19	42795006	42795006	C	T	0.19	NA	109	25	88	0	IGV	1333
+pfg181T	Stomach (Pfizer UHK)	S533Ifs*157		FS ins	NA		U	U		pfizer_uhongkong	chr19	42794511	42794512	-	C	0.32	NA	114	54	139	0	IGV	1635
+TCGA-HU-A4H3-01	Stomach (TCGA pub)	P1248Hfs*54		FS del	Diploid		U	U		Broad	chr19	42797376	42797376	C	-	0.88	NA	1	7	NA	NA	IGV	874
+TCGA-BR-4368-01	Stomach (TCGA pub)	P1248Hfs*54		FS del	Diploid		U	U		Broad	chr19	42797376	42797376	C	-	0.31	NA	9	4	NA	NA	IGV	1276
+TCGA-BR-8372-01	Stomach (TCGA pub)	P1116Qfs*45		FS del	Diploid		U	U		Broad	chr19	42796883	42796883	C	-	0.38	NA	45	27	NA	NA	IGV	1235
+TCGA-CG-5723-01	Stomach (TCGA pub)	P1116Qfs*45		FS del	Diploid		S	U		Broad	chr19	42796883	42796883	C	-	0.15	NA	85	15	NA	NA	IGV	1660
+TCGA-CG-5733-01	Stomach (TCGA pub)	P1116Qfs*45		FS del	Diploid		U	U		Broad	chr19	42796883	42796883	C	-	0.32	NA	63	29	NA	NA	IGV	1127
+TCGA-HU-A4GT-01	Stomach (TCGA pub)	S1117Kfs*34		FS ins	Diploid		S	U		Broad	chr19	42796883	42796884	-	C	0.18	NA	99	22	NA	NA	IGV	1594
+TCGA-BR-6852-01	Stomach (TCGA pub)	S1117Kfs*34		FS ins	Diploid		S	U		Broad	chr19	42796883	42796884	-	C	0.11	NA	99	12	NA	NA	IGV	1080
+TCGA-BR-4256-01	Stomach (TCGA pub)	S1117Kfs*34		FS ins	Diploid		S	U		Broad	chr19	42796883	42796884	-	C	0.23	NA	30	9	NA	NA	IGV	889
+TCGA-HU-A4GU-01	Stomach (TCGA pub)	A430T		Missense	ShallowDel	1	U	U	Neutral	Broad	chr19	42793486	42793486	G	A	0.17	NA	24	5	NA	NA	IGV	1317
+TCGA-CG-5733-01	Stomach (TCGA pub)	R1417C		Missense	Diploid	2	U	U	Neutral	Broad	chr19	42798378	42798378	C	T	0.05	NA	96	5	NA	NA	IGV	1127
+TCGA-CD-A4MI-01	Stomach (TCGA pub)	G644*		Nonsense	Diploid	1	U	U		Broad	chr19	42794850	42794850	G	T	0.21	NA	61	16	NA	NA	IGV	874
+TCGA-EQ-A4SO-01	Stomach (TCGA pub)	D455G		Missense	Gain	1	U	U	Low	Broad	chr19	42794003	42794003	A	G	0.42	NA	11	8	NA	NA	IGV	160
+TCGA-CD-A4MI-01	Stomach (TCGA pub)	P768T		Missense	Diploid	1	U	U	Neutral	Broad	chr19	42795222	42795222	C	A	0.10	NA	45	5	NA	NA	IGV	874
+TCGA-BR-4201-01	Stomach (TCGA pub)	R1171Q		Missense	Diploid	1	U	U	Neutral	Broad	chr19	42797150	42797150	G	A	0.17	NA	29	6	NA	NA	IGV	1296
+TCGA-HU-8602-01	Stomach (TCGA pub)	P509Hfs*14		FS del	Diploid		S	U		Broad	chr19	42794441	42794441	C	-	0.21	NA	99	26	NA	NA	IGV	1447
+TCGA-BR-A4QL-01	Stomach (TCGA pub)	P509Hfs*14		FS del	Diploid		U	U		Broad	chr19	42794441	42794441	C	-	0.45	NA	58	47	NA	NA	IGV	1760
+TCGA-F1-6177-01	Stomach (TCGA pub)	P509Hfs*14		FS del	Diploid		U	U		Broad	chr19	42794441	42794441	C	-	0.43	NA	52	40	NA	NA	IGV	1284
+TCGA-BR-8487-01	Stomach (TCGA pub)	V116M		Missense	Gain	2	U	U	Neutral	Broad	chr19	42791286	42791286	G	A	0.11	NA	62	8	NA	NA	IGV	2912
+TCGA-CG-4442-01	Stomach (TCGA pub)	R353Pfs*54		FS ins	Diploid		S	U		Broad	chr19	42793162	42793163	-	C	0.17	NA	158	32	NA	NA	IGV	1523
+TCGA-CG-5728-01	Stomach (TCGA pub)	A900Pfs*24		FS del	Diploid		S	U		Broad	chr19	42795609	42795609	C	-	0.19	NA	117	27	NA	NA	IGV	1345
+TCGA-BR-6452-01	Stomach (TCGA pub)	P111Hfs*94		FS del	Diploid		S	U		Broad	chr19	42791268	42791268	C	-	0.15	NA	60	11	NA	NA	IGV	6633
+TCGA-HU-A4G8-01	Stomach (TCGA pub)	R139W		Missense	Diploid	2	U	U	Neutral	Broad	chr19	42791355	42791355	C	T	0.22	NA	25	7	NA	NA	IGV	1370
+TCGA-F1-6874-01	Stomach (TCGA pub)	R221H		Missense	Diploid	2	U	U	Low	Broad	chr19	42791776	42791776	G	A	0.28	NA	68	26	NA	NA	IGV	886
+TCGA-CG-4465-01	Stomach (TCGA pub)	Q954*		Nonsense	Diploid	1	U	U		Broad	chr19	42795871	42795871	C	T	0.26	NA	78	27	NA	NA	IGV	608
+TCGA-HU-8602-01	Stomach (TCGA pub)	L571Yfs*157		FS del	Diploid		S	U		Broad	chr19	42794627	42794627	C	-	0.23	NA	80	24	NA	NA	IGV	1447
+TCGA-BR-4363-01	Stomach (TCGA pub)	A737T		Missense	Diploid	2	U	U	Neutral	Broad	chr19	42795129	42795129	G	A	0.45	NA	33	27	NA	NA	IGV	565
+TCGA-BR-4184-01	Stomach (TCGA pub)	R1277C		Missense	Diploid	1	S	U	Neutral	Broad	chr19	42797777	42797777	C	T	0.29	NA	15	6	NA	NA	IGV	3463
+TCGA-CD-8532-01	Stomach (TCGA pub)	P135Rfs*7		FS del	Diploid		S	U		Broad	chr19	42791342	42791346	CCCAG	-	0.16	NA	31	6	NA	NA	IGV	37
+TCGA-HJ-7597-01	Stomach (TCGA pub)	A746V		Missense	Diploid	1	U	U	Neutral	Broad	chr19	42795157	42795157	C	T	0.11	NA	49	6	NA	NA	IGV	710
+TCGA-HU-A4G8-01	Stomach (TCGA)	R139W		Missense	Diploid	2	S	U	Neutral	WashU	chr19	42791355	42791355	NA	NA	NA	NA	NA	NA	NA	NA	IGV	1525
+TCGA-BR-6452-01	Stomach (TCGA)	P111Hfs*94		FS del	Diploid		S	U		WashU	chr19	42791268	42791268	NA	NA	NA	NA	NA	NA	NA	NA	IGV	6524
+TCGA-CG-4442-01	Stomach (TCGA)	R353Pfs*54		FS ins	Diploid		S	U		WashU	chr19	42793161	42793162	NA	NA	NA	NA	NA	NA	NA	NA	IGV	1410
+TCGA-D7-8574-01	Stomach (TCGA)	G939A		Missense	Diploid		S	U	Neutral	WashU	chr19	42795827	42795827	NA	NA	NA	NA	NA	NA	NA	NA	IGV	53
+TCGA-D7-8573-01	Stomach (TCGA)	G939A		Missense	ShallowDel		S	U	Neutral	WashU	chr19	42795827	42795827	NA	NA	NA	NA	NA	NA	NA	NA	IGV	98
+TCGA-CD-8534-01	Stomach (TCGA)	G939A		Missense	Diploid		S	U	Neutral	WashU	chr19	42795827	42795827	NA	NA	NA	NA	NA	NA	NA	NA	IGV	71
+TCGA-CD-8530-01	Stomach (TCGA)	G939A		Missense	ShallowDel		S	U	Neutral	WashU	chr19	42795827	42795827	NA	NA	NA	NA	NA	NA	NA	NA	IGV	105
+TCGA-CD-8528-01	Stomach (TCGA)	G939A		Missense	Diploid		S	U	Neutral	WashU	chr19	42795827	42795827	NA	NA	NA	NA	NA	NA	NA	NA	IGV	120
+TCGA-CD-8526-01	Stomach (TCGA)	G939A		Missense	Gain		S	U	Neutral	WashU	chr19	42795827	42795827	NA	NA	NA	NA	NA	NA	NA	NA	IGV	69
+TCGA-CD-8524-01	Stomach (TCGA)	G939A		Missense	Gain		S	U	Neutral	WashU	chr19	42795827	42795827	NA	NA	NA	NA	NA	NA	NA	NA	IGV	171
+TCGA-BR-A4J2-01	Stomach (TCGA)	G939A		Missense	Diploid		S	U	Neutral	WashU	chr19	42795827	42795827	NA	NA	NA	NA	NA	NA	NA	NA	IGV	69
+TCGA-BR-8059-01	Stomach (TCGA)	G939A		Missense	Diploid		S	U	Neutral	WashU	chr19	42795827	42795827	NA	NA	NA	NA	NA	NA	NA	NA	IGV	718
+TCGA-BR-8077-01	Stomach (TCGA)	G939A		Missense	Gain		S	U	Neutral	WashU	chr19	42795827	42795827	NA	NA	NA	NA	NA	NA	NA	NA	IGV	130
+TCGA-BR-8078-01	Stomach (TCGA)	G939A		Missense	AMP		S	U	Neutral	WashU	chr19	42795827	42795827	NA	NA	NA	NA	NA	NA	NA	NA	IGV	1674
+TCGA-BR-8081-01	Stomach (TCGA)	G939A		Missense	Diploid		S	U	Neutral	WashU	chr19	42795827	42795827	NA	NA	NA	NA	NA	NA	NA	NA	IGV	944
+TCGA-BR-8296-01	Stomach (TCGA)	G939A		Missense	Diploid		S	U	Neutral	WashU	chr19	42795827	42795827	NA	NA	NA	NA	NA	NA	NA	NA	IGV	91
+TCGA-BR-8360-01	Stomach (TCGA)	G939A		Missense	Diploid		S	U	Neutral	WashU	chr19	42795827	42795827	NA	NA	NA	NA	NA	NA	NA	NA	IGV	919
+TCGA-BR-8366-01	Stomach (TCGA)	G939A		Missense	Diploid		S	U	Neutral	WashU	chr19	42795827	42795827	NA	NA	NA	NA	NA	NA	NA	NA	IGV	191
+TCGA-BR-8367-01	Stomach (TCGA)	G939A		Missense	Diploid		S	U	Neutral	WashU	chr19	42795827	42795827	NA	NA	NA	NA	NA	NA	NA	NA	IGV	73
+TCGA-FP-8099-01	Stomach (TCGA)	G939A		Missense	ShallowDel		S	U	Neutral	WashU	chr19	42795827	42795827	NA	NA	NA	NA	NA	NA	NA	NA	IGV	135
+TCGA-FP-8209-01	Stomach (TCGA)	G939A		Missense	Diploid		S	U	Neutral	WashU	chr19	42795827	42795827	NA	NA	NA	NA	NA	NA	NA	NA	IGV	18
+TCGA-HU-8243-01	Stomach (TCGA)	G939A		Missense	ShallowDel		S	U	Neutral	WashU	chr19	42795827	42795827	NA	NA	NA	NA	NA	NA	NA	NA	IGV	131
+TCGA-HU-8610-01	Stomach (TCGA)	G939A		Missense	Diploid		S	U	Neutral	WashU	chr19	42795827	42795827	NA	NA	NA	NA	NA	NA	NA	NA	IGV	76
+TCGA-HU-A4GH-01	Stomach (TCGA)	G939A		Missense	ShallowDel		S	U	Neutral	WashU	chr19	42795827	42795827	NA	NA	NA	NA	NA	NA	NA	NA	IGV	710
+TCGA-HU-A4GP-01	Stomach (TCGA)	G939A		Missense	ShallowDel		S	U	Neutral	WashU	chr19	42795827	42795827	NA	NA	NA	NA	NA	NA	NA	NA	IGV	203
+TCGA-CD-A4MI-01	Stomach (TCGA)	G644*		Nonsense	Diploid	1	S	U		WashU	chr19	42794850	42794850	NA	NA	NA	NA	NA	NA	NA	NA	IGV	1075
+TCGA-BR-8382-01	Stomach (TCGA)	G136Rfs*8		FS ins	Diploid		S	U		WashU	chr19	42791338	42791339	NA	NA	NA	NA	NA	NA	NA	NA	IGV	958
+TCGA-HU-A4GU-01	Stomach (TCGA)	A430T		Missense	ShallowDel	1	S	U	Neutral	WashU	chr19	42793486	42793486	NA	NA	NA	NA	NA	NA	NA	NA	IGV	1408
+TCGA-VQ-A8P2-01	Stomach (TCGA)	A384V		Missense	Diploid		S	U	Neutral	WashU	chr19	42793349	42793349	NA	NA	NA	NA	NA	NA	NA	NA	IGV	6249
+TCGA-BR-6452-01	Stomach (TCGA)	P1529Lfs*91		FS del	Diploid		S	U		WashU	chr19	42799098	42799098	NA	NA	NA	NA	NA	NA	NA	NA	IGV	6524
+TCGA-CD-A4MI-01	Stomach (TCGA)	P768T		Missense	Diploid	1	S	U	Neutral	WashU	chr19	42795222	42795222	NA	NA	NA	NA	NA	NA	NA	NA	IGV	1075
+TCGA-VQ-A8P2-01	Stomach (TCGA)	P36L		Missense	Diploid		S	U	Low	WashU	chr19	42790962	42790962	NA	NA	NA	NA	NA	NA	NA	NA	IGV	6249
+TCGA-HU-8602-01	Stomach (TCGA)	L571Yfs*157		FS del	Diploid		S	U		WashU	chr19	42794627	42794627	NA	NA	NA	NA	NA	NA	NA	NA	IGV	1681
+TCGA-F1-6874-01	Stomach (TCGA)	R221H		Missense	Diploid	2	S	U	Low	WashU	chr19	42791776	42791776	NA	NA	NA	NA	NA	NA	NA	NA	IGV	870
+TCGA-BR-8487-01	Stomach (TCGA)	V116M		Missense	Gain	2	S	U	Neutral	WashU	chr19	42791286	42791286	NA	NA	NA	NA	NA	NA	NA	NA	IGV	2991
+TCGA-CG-5733-01	Stomach (TCGA)	P1116Qfs*45		FS del	Diploid		S	U		WashU	chr19	42796883	42796883	NA	NA	NA	NA	NA	NA	NA	NA	IGV	1020
+TCGA-CG-5723-01	Stomach (TCGA)	P1116Qfs*45		FS del	Diploid		S	U		WashU	chr19	42796883	42796883	NA	NA	NA	NA	NA	NA	NA	NA	IGV	1637
+TCGA-BR-8372-01	Stomach (TCGA)	P1116Qfs*45		FS del	Diploid		S	U		WashU	chr19	42796883	42796883	NA	NA	NA	NA	NA	NA	NA	NA	IGV	1326
+TCGA-HJ-7597-01	Stomach (TCGA)	A746V		Missense	Diploid	1	S	U	Neutral	WashU	chr19	42795157	42795157	NA	NA	NA	NA	NA	NA	NA	NA	IGV	777
+TCGA-CG-4465-01	Stomach (TCGA)	Q954*		Nonsense	Diploid	1	S	U		WashU	chr19	42795871	42795871	NA	NA	NA	NA	NA	NA	NA	NA	IGV	592
+TCGA-BR-4256-01	Stomach (TCGA)	S1117Kfs*34		FS ins	Diploid		S	U		WashU	chr19	42796882	42796883	NA	NA	NA	NA	NA	NA	NA	NA	IGV	1011
+TCGA-BR-6852-01	Stomach (TCGA)	S1117Kfs*34		FS ins	Diploid		S	U		WashU	chr19	42796882	42796883	NA	NA	NA	NA	NA	NA	NA	NA	IGV	1099
+TCGA-HU-A4GT-01	Stomach (TCGA)	S1117Kfs*34		FS ins	Diploid		S	U		WashU	chr19	42796882	42796883	NA	NA	NA	NA	NA	NA	NA	NA	IGV	1589
+TCGA-BR-4363-01	Stomach (TCGA)	A737T		Missense	Diploid	2	S	U	Neutral	WashU	chr19	42795129	42795129	NA	NA	NA	NA	NA	NA	NA	NA	IGV	602
+TCGA-BR-A4QL-01	Stomach (TCGA)	P509Hfs*14		FS del	Diploid		S	U		WashU	chr19	42794441	42794441	NA	NA	NA	NA	NA	NA	NA	NA	IGV	1812
+TCGA-F1-6177-01	Stomach (TCGA)	P509Hfs*14		FS del	Diploid		S	U		WashU	chr19	42794441	42794441	NA	NA	NA	NA	NA	NA	NA	NA	IGV	1350
+TCGA-HU-8602-01	Stomach (TCGA)	P509Hfs*14		FS del	Diploid		S	U		WashU	chr19	42794441	42794441	NA	NA	NA	NA	NA	NA	NA	NA	IGV	1681
+TCGA-R5-A7ZI-01	Stomach (TCGA)	P135Qfs*70		FS del	Diploid		S	U		WashU	chr19	42791339	42791339	NA	NA	NA	NA	NA	NA	NA	NA	IGV	769
+TCGA-CD-8532-01	Stomach (TCGA)	P135Rfs*7		FS del	Diploid		S	U		WashU	chr19	42791342	42791346	CCCAG	NA	NA	NA	NA	NA	NA	NA	IGV	55
+TCGA-BR-4368-01	Stomach (TCGA)	P1248Hfs*54		FS del	Diploid		S	U		WashU	chr19	42797376	42797376	NA	NA	NA	NA	NA	NA	NA	NA	IGV	1299
+TCGA-HU-A4H3-01	Stomach (TCGA)	P1248Hfs*54		FS del	Diploid		S	U		WashU	chr19	42797376	42797376	NA	NA	NA	NA	NA	NA	NA	NA	IGV	911
+TCGA-EQ-A4SO-01	Stomach (TCGA)	D455G		Missense	Gain	1	S	U	Low	WashU	chr19	42794003	42794003	NA	NA	NA	NA	NA	NA	NA	NA	IGV	177
+TCGA-D7-A6EY-01	Stomach (TCGA)	F1095V		Missense	Diploid		S	U	Neutral	WashU	chr19	42796825	42796825	NA	NA	NA	NA	NA	NA	NA	NA	IGV	1461
+TCGA-BR-4201-01	Stomach (TCGA)	R1171Q		Missense	Diploid	1	S	U	Neutral	WashU	chr19	42797150	42797150	NA	NA	NA	NA	NA	NA	NA	NA	IGV	1451
+TCGA-CG-5733-01	Stomach (TCGA)	A659Pfs*69		FS del	Diploid		S	U		WashU	chr19	42794892	42794892	NA	NA	NA	NA	NA	NA	NA	NA	IGV	1020
+TCGA-CG-5728-01	Stomach (TCGA)	A900Pfs*24		FS del	Diploid		S	U		WashU	chr19	42795609	42795609	NA	NA	NA	NA	NA	NA	NA	NA	IGV	1458
+GC_357T-GC_357N	Stomach (UTokyo)	V230I		Missense	NA	2	U	U	Neutral	UTokyo	chr19	42791802	42791802	G	A	0.16	NA	80	15	NA	NA	IGV	142
+TCGA-2G-AALG-01	Testicular germ cell (TCGA)	R170L		Missense	ShallowDel		S	U	Low	mdanderson.org	chr19	42791528	42791528	NA	NA	NA	NA	NA	NA	NA	NA	IGV	48
+TCGA-2G-AAKL-01	Testicular germ cell (TCGA)	Q940Pfs*211		FS ins	ShallowDel		S	U		Broad	chr19	42795827	42795828	NA	NA	NA	NA	NA	NA	NA	NA	IGV	58
+TCGA-2G-AAGS-01	Testicular germ cell (TCGA)	P968A		Missense	ShallowDel		S	U	Low	hgsc.bcm.edu;broad.mit.edu;ucsc.edu;bcgsc.ca;mdanderson.org	chr19	42796253	42796253	NA	NA	NA	NA	NA	NA	NA	NA	IGV	45
+TCGA-N6-A4VD-01	Uterine CS (TCGA)	R572W		Missense	Diploid	1	S	U	Neutral	Broad	chr19	42794634	42794634	NA	NA	0.41	NA	50	35	NA	NA	IGV	83
+TCGA-D1-A17B-01	Uterine (TCGA pub)	S146*		FS del	Diploid		S	U		WashU	chr19	42791372	42791373	AG	-	NA	NA	NA	NA	NA	NA	IGV	203
+TCGA-BS-A0UV-01	Uterine (TCGA pub)	R274Q		Missense	Diploid	1	S	U	Low	WashU	chr19	42792017	42792017	G	A	0.29	NA	22	9	34	0	IGV	7811
+TCGA-B5-A0JY-01	Uterine (TCGA pub)	A45T		Missense	Diploid	1	S	U	Neutral	WashU	chr19	42790988	42790988	G	A	0.46	NA	32	27	44	0	IGV	8951
+TCGA-BG-A0YV-01	Uterine (TCGA pub)	R1417C		Missense	Diploid	2	S	U	Neutral	WashU	chr19	42798378	42798378	C	T	0.41	NA	64	45	54	0	IGV	69
+TCGA-AX-A0J1-01	Uterine (TCGA pub)	R213Q		Missense	Diploid	3	S	U	Low	WashU	chr19	42791752	42791752	G	A	0.35	NA	24	13	46	0	IGV	3866
+TCGA-B5-A11E-01	Uterine (TCGA pub)	E485*		Nonsense	Diploid	1	S	U		WashU	chr19	42794092	42794092	G	T	0.36	NA	21	12	24	0	IGV	8221
+TCGA-D1-A167-01	Uterine (TCGA pub)	V318I		Missense	Diploid	2	S	U	Neutral	WashU	chr19	42793060	42793060	G	A	0.64	NA	4	7	30	0	IGV	1358
+TCGA-AP-A059-01	Uterine (TCGA pub)	G189E		Missense	Diploid	1	S	U	Low	WashU	chr19	42791585	42791585	G	A	0.19	NA	136	32	112	0	IGV	9232
+TCGA-AP-A0LM-01	Uterine (TCGA pub)	R422Q		Missense	Diploid	1	S	U	Neutral	WashU	chr19	42793463	42793463	G	A	0.27	NA	117	43	102	0	IGV	10498
+TCGA-BG-A0VZ-01	Uterine (TCGA pub)	R572Q		Missense	Diploid	1	S	U	Neutral	WashU	chr19	42794635	42794635	G	A	0.52	NA	16	17	19	0	IGV	234
+TCGA-AP-A059-01	Uterine (TCGA pub)	Q374H		Missense	Diploid	1	S	U	Neutral	WashU	chr19	42793230	42793230	G	T	0.17	NA	25	5	21	0	IGV	9232
+TCGA-D1-A176-01	Uterine (TCGA pub)	A1495T		Missense	Diploid	1	S	U	Neutral	WashU	chr19	42798999	42798999	G	A	0.33	NA	97	48	140	0	IGV	278
+TCGA-BS-A0TJ-01	Uterine (TCGA pub)	P1335H		Missense	Diploid	1	S	U	Low	WashU	chr19	42797952	42797952	C	A	0.29	NA	30	12	42	0	IGV	456
+TCGA-AP-A0LG-01	Uterine (TCGA pub)	R190C		Missense	Diploid	1	S	U	Low	WashU	chr19	42791587	42791587	C	T	0.38	NA	45	28	125	0	IGV	294
+TCGA-A5-A0GB-01	Uterine (TCGA pub)	Q1488Rfs*22		FS del	Diploid		S	U		WashU	chr19	42798976	42798976	C	-	NA	NA	NA	NA	NA	NA	IGV	509
+TCGA-B5-A11Y-01	Uterine (TCGA pub)	R228Q		Missense	Diploid	4	S	U	Low	WashU	chr19	42791797	42791797	G	A	0.29	NA	102	42	88	0	IGV	813
+TCGA-AP-A051-01	Uterine (TCGA pub)	R602I		Missense	Diploid	1	S	U	Neutral	WashU	chr19	42794725	42794725	G	T	0.22	NA	40	11	116	0	IGV	6761
+TCGA-D1-A0ZO-01	Uterine (TCGA pub)	D473N		Missense	Diploid	1	S	U	Low	WashU	chr19	42794056	42794056	G	A	0.35	NA	92	49	137	0	IGV	419
+TCGA-D1-A167-01	Uterine (TCGA)	V318I		Missense	Diploid	2	S	U	Neutral	WashU	chr19	42793060	42793060	NA	NA	0.64	NA	4	7	30	0	IGV	1358
+TCGA-AP-A0LM-01	Uterine (TCGA)	R422Q		Missense	Diploid	1	S	U	Neutral	WashU	chr19	42793463	42793463	NA	NA	0.27	NA	117	43	102	0	IGV	10496
+TCGA-BG-A0VZ-01	Uterine (TCGA)	R572Q		Missense	Diploid	1	S	U	Neutral	WashU	chr19	42794635	42794635	NA	NA	0.52	NA	16	17	19	0	IGV	234
+TCGA-D1-A0ZO-01	Uterine (TCGA)	D473N		Missense	Diploid	1	S	U	Low	WashU	chr19	42794056	42794056	NA	NA	0.35	NA	92	49	137	0	IGV	419
+TCGA-BS-A0UV-01	Uterine (TCGA)	R274Q		Missense	Diploid	1	S	U	Low	WashU	chr19	42792017	42792017	NA	NA	0.29	NA	22	9	34	0	IGV	7808
+TCGA-AP-A059-01	Uterine (TCGA)	G189E		Missense	Diploid	1	S	U	Low	WashU	chr19	42791585	42791585	NA	NA	0.19	NA	136	32	112	0	IGV	9232
+TCGA-B5-A11E-01	Uterine (TCGA)	E485*		Nonsense	Diploid	1	S	U		WashU	chr19	42794092	42794092	NA	NA	0.36	NA	21	12	24	0	IGV	8221
+TCGA-A5-A0GB-01	Uterine (TCGA)	Q1488Rfs*22		FS del	Diploid		S	U		WashU	chr19	42798976	42798976	NA	NA	NA	NA	NA	NA	NA	NA	IGV	508
+TCGA-D1-A176-01	Uterine (TCGA)	A1495T		Missense	Diploid	1	S	U	Neutral	WashU	chr19	42798999	42798999	NA	NA	0.33	NA	97	48	140	0	IGV	278
+TCGA-B5-A11Y-01	Uterine (TCGA)	R228Q		Missense	Diploid	4	S	U	Low	WashU	chr19	42791797	42791797	NA	NA	0.29	NA	102	42	88	0	IGV	813
+TCGA-AP-A051-01	Uterine (TCGA)	R602I		Missense	Diploid	1	S	U	Neutral	WashU	chr19	42794725	42794725	NA	NA	0.22	NA	40	11	116	0	IGV	6760
+TCGA-BG-A0YV-01	Uterine (TCGA)	R1417C		Missense	Diploid	2	S	U	Neutral	WashU	chr19	42798378	42798378	NA	NA	0.41	NA	64	45	54	0	IGV	69
+TCGA-B5-A0JY-01	Uterine (TCGA)	A45T		Missense	Diploid	1	S	U	Neutral	WashU	chr19	42790988	42790988	NA	NA	0.46	NA	32	27	44	0	IGV	8950
+TCGA-AP-A059-01	Uterine (TCGA)	Q374H		Missense	Diploid	1	S	U	Neutral	WashU	chr19	42793230	42793230	NA	NA	0.17	NA	25	5	21	0	IGV	9232
+TCGA-AX-A0J1-01	Uterine (TCGA)	R213Q		Missense	Diploid	3	S	U	Low	WashU	chr19	42791752	42791752	NA	NA	0.35	NA	24	13	46	0	IGV	3865
+TCGA-D1-A17B-01	Uterine (TCGA)	S146*		FS del	Diploid		S	U		WashU	chr19	42791372	42791373	AG	NA	NA	NA	NA	NA	NA	NA	IGV	203
+TCGA-BS-A0TJ-01	Uterine (TCGA)	P1335H		Missense	Diploid	1	S	U	Low	WashU	chr19	42797952	42797952	NA	NA	0.29	NA	30	12	42	0	IGV	457
+TCGA-AP-A0LG-01	Uterine (TCGA)	R190C		Missense	Diploid	1	S	U	Low	WashU	chr19	42791587	42791587	NA	NA	0.38	NA	45	28	125	0	IGV	294

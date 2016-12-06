@@ -10,7 +10,7 @@
 #' @export
 #'
 #' @examples
-#' read_cbioportal("~/mutation_table_TP53.csv")
+#' 
 
 read_cbioportal <- function(gene_file) {
   gene_data <- readr::read_tsv(gene_file)

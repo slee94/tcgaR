@@ -16,6 +16,6 @@ ggplot
 Plot mutations distributions
 }
 \examples{
-plot_mut_dist(read_cbioportal("~/mutation_table_TP53.csv"))
+
 }
 

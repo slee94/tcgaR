@@ -6,7 +6,7 @@
 #' @export
 #'
 #' @examples
-#' plot_mut_freq(read_cbioportal("~/mutation_table_TP53.csv"))
+#' 
 
 plot_mut_freq <- function(gene_df) {
   can_studies_low <- gene_df %>%

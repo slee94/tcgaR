@@ -16,6 +16,6 @@ ggplot
 Plot mutation frequencies
 }
 \examples{
-plot_mut_freq(read_cbioportal("~/mutation_table_TP53.csv"))
+
 }
 
