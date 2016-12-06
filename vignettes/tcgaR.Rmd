@@ -1,0 +1,29 @@
+---
+title: "tcgaR"
+author: "Stephen Lee"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette:
+    toc: true
+    keep_md: true
+vignette: >
+  %\VignetteIndexEntry{tcgaR}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, warnings=FALSE, message=FALSE}
+library(tcgaR)
+library(tidyverse)
+ATRX_data <- read_cbioportal("mutation_table_ATRX.tsv")
+knitr::kable(head(ATRX_data, 10))
+
+```
+
+Under the hood, cancer studies that only had 1 mutation in the gene are taken out.
+```{r}
+plot_mut_freq(ATRX_data)
+```
+
+```{r}
+plot_mut_dist(ATRX_data)
+```
