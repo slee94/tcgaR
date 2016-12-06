@@ -14,8 +14,7 @@ RoxygenNote: 5.0.1
 Suggests:
     NA
 VignetteBuilder: tcgaR
-Imports: forcats,
-    ggthemes,
-    dplyr,
+Imports: dplyr,
     readr,
-    ggplot2
+    ggplot2,
+    forcats
