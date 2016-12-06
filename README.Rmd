@@ -9,11 +9,11 @@ This is a very simple package for gaining basic insight on cancer associated gen
 
 **1. Query cbioportal for a gene of interest (required action indicated by red circles). If you want to try other genes but don't know any, BRCA1, KRAS, and KMT2D are some other known cancer associated genes. **
 
-![](C:/Users/owner/Documents/tcgaR/images/cbioportal_query.png)
+![](C:/Users/owner/Desktop//tcgaR/images/cbioportal_query.png)
 
 **2. Download mutation tsv from cbioportal**
 
-![](C:/Users/owner/Documents/tcgaR/images/cbioportal_download.png)
+![](C:/Users/owner/Desktop//tcgaR/images/cbioportal_download.png)
 
 #If you're not familiar with genetics
 ******
