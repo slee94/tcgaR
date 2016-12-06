@@ -13,7 +13,6 @@ plot_mut_dist <- function(gene_df) {
     ggplot2::geom_point(ggplot2::aes(colour = mut_type, shape = mut_type),
                         size = 2.5, alpha = 0.7) +
     ggplot2::labs(x = NULL, y = "Cancer Type", colour = NULL, shape = NULL) +
-    ggthemes::scale_shape_calc() +
     ggplot2::theme(legend.position = "bottom",
                    legend.text = ggplot2::element_text(size = "10"),
                    axis.text.x = ggplot2::element_text(size = "7"),

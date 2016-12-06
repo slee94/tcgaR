@@ -7,7 +7,7 @@ output: github_document
 
 This is a very simple package for gaining basic insight on cancer associated genes through TCGA data. Data must be downloaded from [cbioportal](http://www.cbioportal.org/). Before going into the packages usages, here are the instructions for getting data from cbioportal. 
 
-**1. Query cbioportal for a gene of interest (required action indicated by red circles). If you want to try other genes but don't know any, BRCA1, KRAS, and KMT2D are some other known cancer associated genes. **
+**1. Query cbioportal for a gene of interest (required action indicated by red circles). If you want to try other genes but don't know any, BRCA1, KRAS, and KMT2D are some other known cancer associated genes.**
 
 ![](C:/Users/owner/Desktop//tcgaR/images/cbioportal_query.png)
 

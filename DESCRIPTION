@@ -14,10 +14,7 @@ RoxygenNote: 5.0.1
 Suggests:
     NA
 VignetteBuilder: tcgaR
-Imports:
-    data.table,
-    tidyverse,
-    forcats,
+Imports: forcats,
     ggthemes,
     dplyr,
     readr,

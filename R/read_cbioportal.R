@@ -14,13 +14,12 @@
 
 read_cbioportal <- function(gene_file) {
   gene_data <- readr::read_tsv(gene_file)
-  data.table::setnames(gene_data,
-                       old = c("Cancer Study", "Type", "Start Pos", "AA change", "Mutation Assessor"),
-                       new = c("cancer_study", "mut_type", "n_pos", "AA_change", "mut_impact"))
   
   gene_subset <- gene_data %>%
     dplyr::filter(mut_type != "Fusion") %>%
-    dplyr::select(cancer_study, mut_type, n_pos, AA_change, mut_impact)
+    dplyr::select(`Cancer Study`, Type, `Start Pos`)
+  
+  colnames(gene_subset) <- c("cancer_study", "mut_type", "n_pos")
   
   return(gene_subset)
 }
