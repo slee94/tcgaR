@@ -10,7 +10,7 @@ This is a very simple package for gaining basic insight on cancer associated gen
 
 ![](C:/Users/owner/Desktop//tcgaR/images/cbioportal_query.png)
 
-**2. Download mutation tsv from cbioportal**
+**2. Download mutation tsv under the mutations tab from cbioportal (click on download on the bottom of the page)**
 
 ![](C:/Users/owner/Desktop//tcgaR/images/cbioportal_download.png)
 
